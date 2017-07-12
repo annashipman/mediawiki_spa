@@ -1,0 +1,405 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>View source - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="next" href="index.php?title=Main_Page" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<!--[if IE 8]><link rel="stylesheet" href="/mediawiki/skins/common/IE80Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Main_Page",
+wgTitle="Main Page",
+wgAction="edit",
+wgArticleId=3183,
+wgIsArticle=false,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=true,
+wgCurRevisionId=8142,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="http://www.spaconference.org/mediawiki/skins/common/edit.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Main_Page skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">Main Page</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">for <a href="index.php?title=Main_Page" title="Main Page">Main Page</a></div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=Main_Page&amp;action=edit#column-one">navigation</a>, <a href="index.php?title=Main_Page&amp;action=edit#searchInput">search</a></div>
+		<!-- start content -->
+<p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Users&amp;action=edit&amp;redlink=1" class="new" title="SPA Wiki:Users (page does not exist)">Users</a>.
+</p>
+</div>
+<p>You can view and copy the source of this page:
+</p><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">
+
+== ''SPA Conference Discussion Site'' ==
+----
+Welcome to the Wiki discussion site for the SPA conference series.
+
+'''[http://www.spaconference.org Click here] for the main conference site.'''
+
+'''You can easily create and edit any of these discussion pages.''' See 'edit' at the top.
+* Add your own topics and discuss with colleagues.
+
+You need to be a registered user of the SPA Conference site to be able to edit this wiki.  You can login/create an account [http://www.spaconference.org/scripts/login.php here]
+
+Keep up to date by checking '''[[Special:RecentChanges]]'''.
+
+----
+=== SPA2015 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndFifteenOutput]]
+
+==== SPA2015 on Twitter ====
+https://twitter.com/search?q=%23spaconf15&amp;src=hash
+
+=== SPA2014 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndFourteenOutput]]
+
+==== SPA2014 on Twitter ====
+https://twitter.com/search?q=%23spaconf&amp;src=hash
+
+=== SPA2013 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndThirteenOutput]]
+
+==== SPA2013 on Twitter ====
+https://twitter.com/search?q=%23spa2013&amp;src=hash
+
+==== miniSPA 2013 ====
+[[miniSPA2013Output]]
+
+==== miniSPA2013 on Twitter ====
+https://twitter.com/search?q=%23miniSPA
+
+=== SPA2012 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndTwelveOutput]]
+
+==== SPA2012 on Twitter ====
+http://twitter.com/search?q=%23spa2012
+
+=== SPA2011 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndElevenOutput]]
+
+==== SPA2011 on Twitter ====
+http://twitter.com/search?q=%23spa2011
+
+----
+=== SPA2010 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndTenOutput]]
+
+==== SPA2010 on Twitter ====
+http://twitter.com/search?q=%23spa2010
+
+[[SpaTwoThousandAndTenIdeas]] --- suggestions for SPA 2010
+
+----
+=== SPA2009 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndNineOutput]]
+
+==== SPA2009 on Twitter ====
+http://twitter.com/search?q=%23spa2009
+
+----
+=== SPA2008 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndEightOutput]]
+
+----
+=== SPA2007 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndSevenOutput]]
+
+
+----
+=== SPA2006 ===
+
+==== Followup --- sessions and reports ====
+[[SpaTwoThousandAndSixOutput]]
+
+=== miniSPA2006 ===
+On the 11th August 2006 we held "miniSPA" to give a one day taster of the conference and a chance for people to catch up on session then they missed in the main conference.  See [[MiniSPATwoThousandAndSixOutputs]]
+
+====  BOF Session Proposals ====
+Create a link to a new page here if you want to discuss a topic that might lead to a Birds-of-a-Feather session.
+
+[[SweetSpotQAAndOtherStuffForFree]]
+
+====  Question Time ====
+On the Monday night of the conference, we are running a Question Time panel debate session.  We are looking for questions and some additional panel members. Please use the the link below to suggstions questions or contact [[User:JamesDobson|JamesDobson]] for more information or to volunteer for the panel.
+
+[[QuestionTimeQuestions]]
+
+[[QuestionTimeFormat]]
+
+
+----
+=== SPA2005 ===
+
+* [[SpaTwoThousandAndFiveOutput]]
+* [[SpaTwoThousandAndFiveCarBootSale]]
+
+
+----
+=== OT2004 ===
+
+* [[OtTwoThousandAndFourOutput]]
+* [[OtTwoThousandAndFourBlogPosts]]
+* [[OtTwoThousandAndFourPhotos]]
+
+===  BOF Session Proposals ===
+Create a link to a new page here if you want to discuss a topic that might lead to a Birds-of-a-Feather session.
+
+* [[ModelDrivenPrototyping]]
+
+===  References ===
+The presence of Cincom at the event seemed to raise a bit of interest in Smalltalk. There's lots of useful references at Stef's Free Online Smalltalk Books [http://www.iam.unibe.ch/~ducasse/FreeBooks.html 2].
+
+
+----
+=== OT2003 ===
+
+=== Followup --- sessions and reports ===
+
+* Fighting Fire With Fire - A [[PatternLanguageForRottenProjects]] -- [[User:MattStephenson|MattStephenson]] and [[User:StephenHutchinson|StephenHutchinson]]
+* [[BigRup]] - Top tips for anyone running a large project
+* [[SessionNotesTwoThousandAndThree]] -- yes, some people carefully took notes at formal sessions, BOFs and home groups, so now you can benefit!
+* [[LargeRefactorings]] - [[User:MartinLippert|MartinLippert]] and [[User:StefanRoock|StefanRoock]]
+* [[JacksonProblemFrames]] --- [[User:DerekAndrews|DerekAndrews]] and [[User:RichardMitchell|RichardMitchell]]
+* [[InnoVate]] - [[User:LauraHill|LauraHill]]
+* [[SoftwareDevelopmentConsideredasanEconomicActivity]]  - [[User:KevinTyson|KevinTyson]]
+* [[ExtensibleArchitecturesBestPractices]] - [[User:KlausMarquardt|KlausMarquardt]] and [[User:MarkusVoelter|MarkusVoelter]]
+* [[RetroSpectives]] - [[User:RachelDavies|RachelDavies]]
+* [[TangledWebs]] - [[User:AndyLongshaw|AndyLongshaw]] and [[User:EoinWoods|EoinWoods]]
+* [[UnderCoverEjbs]] - [[User:ScottCrawford|ScottCrawford]]
+* [[ExpressoFramework]] - [[User:DavidBridgewater|DavidBridgewater]]
+
+
+----
+=== OT2002  ===
+
+=== Followup --- sessions and reports ===
+
+* [[User:VincentMassol|VincentMassol]]'s slides --- [[AgileDelivery]]
+* Scaling Agile Processes goldfish bowl discussion --- [[ScalingAgileProcesses]]
+* System thinking for projects --- [[FirstOrderProjectManagement]]
+* New Features of EJB 2.0 --- http://www.dparsons.co.uk/OT2002/
+* Top 10 project rot symptoms and suggested repairs --- [[ProjectRot]]
+* [[GeekTragedy]]
+* [[LightenUpYourRup]]
+* [[XpGame]] --- http://www.xp.be
+* Dead Architects Make No Mistakes and other heuristicsToGuideYou
+
+
+
+===  [[BoF]] Session Proposals ===
+===== Create a link to a new page here if you want to discuss a topic that might lead to a Birds-of-a-Feather session. =====
+
+* [[LanguageLevels]]
+* [[ModellingDistributedSystemsInUml]]
+* [[ClassroomXp]]
+* [[DistributedAgileDevelopment]]
+* [[ArchitectureAndDesignOfWebServices]]
+* [[PatternTesting]]
+* [[UnitTestingJtwoeeApplications]]
+* [[PromotingIdeas]]
+
+
+----
+=== OT2001 Session followup ===
+
+'''Results from feedback forms can be seen at http://www.spa2005.org/ot2001/feedback.htm''' 
+
+Writeups are available for these OT2001 sessions:
+
+* [[AccentuateThePositive]]
+* [[ArchitecturalChoicesWithComponents]]
+* [[DesignaTions]]
+* [[GrowingaPatternLanguage]]
+* [[OpenSourceInLargeCommercialCompanies]] ''(bof)''
+* [[PluggingTheComponentGap]]
+* [[ToTrainAnArchitect]]
+* [[TracerBullets]]
+* [[XpInTheRealWorld]]
+* [[FrWithoutUseCases]]
+* Bugbears --> http://dunkworks.com/research/bugbears
+* EJB Patterns --> http://www.dparsons.co.uk/OT2001/
+
+
+===== Bofs =====
+* [[ExternalCommunique]]
+* [[OpenSourceInLargeCommercialCompanies]] (with example [[OpenAdapter]][http://www.openadapter.org 4] from [[DrKW]])
+* [[ComparingDotNetAndJtwoee]]
+
+---
+=== Patterns Pages ===
+This is for patterns sessions that have been/will be held at OT.
+
+	* [[DistributedProgrammingPatterns]] --- Kevlin Henney's session at OT2000
+
+---
+=== Employee Satisfaction in Agile Teams - Study ===
+
+The EBE group of University of Calgary is carrying out a study of the effects of agile methods on the lives and views of agile team members. The online survey asks for views on various job satisfaction factors as well as some demographic information. 
+
+In order to take part in the survey, please visit
+http://www.agilenetwork.ca/study/
+
+It should take participants no longer than 10 minutes to complete the survey.
+
+Results will be posted at the end of the study.
+
+Thank you for your anticipated participation.
+
+
+---
+Site manager: [[User:DaveCleal|DaveCleal]]</textarea><div class='templatesUsed'>
+
+</div>
+<p id="mw-returnto">Return to <a href="index.php?title=Main_Page" title="Main Page">Main Page</a>.</p>
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=Main_Page">http://www.spaconference.org/mediawiki/index.php?title=Main_Page</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=Main_Page" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource" class="selected"><a href="index.php?title=Main_Page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=Main_Page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=Main_Page&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FMain_Page" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FMain_Page" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.163 secs. --></body></html>

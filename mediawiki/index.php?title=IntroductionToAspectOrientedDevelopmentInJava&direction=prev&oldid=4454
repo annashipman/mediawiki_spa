@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>IntroductionToAspectOrientedDevelopmentInJava - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="IntroductionToAspectOrientedDevelopmentInJava",
+wgTitle="IntroductionToAspectOrientedDevelopmentInJava",
+wgAction="view",
+wgArticleId=2456,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4454,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-IntroductionToAspectOrientedDevelopmentInJava skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">IntroductionToAspectOrientedDevelopmentInJava</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 12:51, 12 April 2005 by <a href="./index.php?title=Special:Contributions%252FImmoHuneke" title="Special:Contributions/ImmoHuneke" class="mw-userlink">ImmoHuneke</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:ImmoHuneke&amp;action=edit&amp;redlink=1" class="new" title="User talk:ImmoHuneke (page does not exist)">Talk</a>)</span></div>
+
+				<div id="mw-revision-nav">(diff) ← Older revision | <a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava" title="IntroductionToAspectOrientedDevelopmentInJava">Latest revision</a> (<a href="http://www.spaconference.org/mediawiki/index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;diff=cur&amp;oldid=4453" title="IntroductionToAspectOrientedDevelopmentInJava">diff</a>) | <a href="http://www.spaconference.org/mediawiki/index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=next&amp;oldid=4453" title="IntroductionToAspectOrientedDevelopmentInJava">Newer revision →</a> (<a href="http://www.spaconference.org/mediawiki/index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;diff=next&amp;oldid=4453" title="IntroductionToAspectOrientedDevelopmentInJava">diff</a>)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#column-one">navigation</a>, <a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#searchInput">search</a></div>
+		<!-- start content -->
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#Introduction_to_Aspect_Oriented_Development_in_Java"><span class="tocnumber">1</span> <span class="toctext">Introduction to Aspect Oriented Development in Java</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#Findings"><span class="tocnumber">1.1</span> <span class="toctext">Findings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#All_tools"><span class="tocnumber">1.1.1</span> <span class="toctext">All tools</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#JAdvise"><span class="tocnumber">1.1.2</span> <span class="toctext">JAdvise</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#Aspect.3Cnop.3EWerkz"><span class="tocnumber">1.1.3</span> <span class="toctext">Aspect&lt;nop&gt;Werkz</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#Aspect.3Cnop.3EJ"><span class="tocnumber">1.1.4</span> <span class="toctext">Aspect&lt;nop&gt;J</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#Conclusion"><span class="tocnumber">1.2</span> <span class="toctext">Conclusion</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454#List_of_references_to_real-world_experiences"><span class="tocnumber">1.3</span> <span class="toctext">List of references to real-world experiences</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h3> <span class="mw-headline" id="Introduction_to_Aspect_Oriented_Development_in_Java"> Introduction to Aspect Oriented Development in Java </span></h3>
+<p>Session leaders: <a href="./index.php?title=User:ImmoHuneke" title="User:ImmoHuneke">ImmoHuneke</a>, <a href="./index.php?title=User:CornelStudach" title="User:CornelStudach">CornelStudach</a>
+</p><p>Participants:
+</p>
+<ul><li> <a href="./index.php?title=User:KarelRiha" title="User:KarelRiha">KarelRiha</a>
+</li><li> James (Robertson?)
+</li><li> James Shade
+</li><li> Ronald Marciniak (sp?)
+</li><li> Susan Duncan (Oracle)
+</li><li> Pippa [] (Oracle)
+</li><li> <a href="./index.php?title=User:MarkCranshaw" title="User:MarkCranshaw">MarkCranshaw</a>
+</li><li> <a href="./index.php?title=User:JohnFlackett" title="User:JohnFlackett">JohnFlackett</a>
+</li><li> <a href="./index.php?title=User:ScottCrawford" title="User:ScottCrawford">ScottCrawford</a>
+</li></ul>
+<h4> <span class="mw-headline" id="Findings"> Findings </span></h4>
+<h5> <span class="mw-headline" id="All_tools"> All tools </span></h5>
+<ul><li> Aid maintainability by de-cluttering source code
+</li><li> Might be useful for checking parameters and return values during development (but Java assertions might be more natural)
+</li><li> Lots of scope for new, subtle bugs
+</li><li> Ordering of aspects is critical, because they influence one another, but it is not always obvious how to control the ordering
+</li><li> Probably not ready for mission-critical applications
+</li><li> Legacy code might invite major refactoring to use aspects
+</li><li> Worth investigating what support for aspects exists in other languages, particularly C# (see also <a href="http://portal.acm.org/citation.cfm?id=1052898.1052907" class="external free" rel="nofollow">http://portal.acm.org/citation.cfm?id=1052898.1052907</a> - Aspect&lt;nop&gt;Cobol!)
+</li><li> We're still trying to find real-world examples of its use (but see end of this page)
+</li></ul>
+<h5> <span class="mw-headline" id="JAdvise"> JAdvise </span></h5>
+<ul><li> The application main() method has to initialise the aspect system explicitly, which breaks the "non-invasive" principle
+</li></ul>
+<dl><dd><ul><li> it may be possible to devise an XML schema and pre-processor that generates this initialisation code automatically and inserts it in main()
+</li></ul>
+</dd></dl>
+<ul><li> Because initialisation only nominates the aspects to apply to each class, the aspect methods themselves have to work out whether they apply to any particular method using if/then/else
+</li></ul>
+<dl><dd><ul><li> this is clumsy and obscures the purpose of the aspect method
+</li><li> it can be parameterised to some extent by passing method names as constructor arguments to the aspect classes (we tried this and it worked)
+</li></ul>
+</dd></dl>
+<ul><li> Even with a working example to look at, creating a new aspect was quite hard work and took half an hour or more
+</li><li> The tool is more of a proof-of-concept than an industrial-strength tool and possibly won't evolve now that Aspect&lt;nop&gt;J, Aspect&lt;nop&gt;Werkz and Spring are maturing
+</li><li> Little or no documentation available
+</li></ul>
+<h5> <span class="mw-headline" id="Aspect.3Cnop.3EWerkz"> Aspect&lt;nop&gt;Werkz </span></h5>
+<ul><li> Easier than JAdvise, once examples are available (we took only 10-15 minutes to implement the Singleton exercise after taking nearly an hour over JAdvise)
+</li><li> Powerful in terms of method signatures that can be advised - JAdvise can only advise methods that return an Object, it appears
+</li><li> Documentation is scrappy - some tutorials, some of whose examples do not work; no proper reference manual (yet) or books
+</li></ul>
+<h5> <span class="mw-headline" id="Aspect.3Cnop.3EJ"> Aspect&lt;nop&gt;J </span></h5>
+<ul><li> Best documented tool of the lot - lots of manuals and books
+</li><li> Best Eclipse support
+</li><li> A neat way to extend Java (annotations found expressive)
+</li><li> Aspects are all compiled-in, so have to change source code to change them
+</li></ul>
+<dl><dd><ul><li> the separate XML configuration files supported by Aspect&lt;nop&gt;Werkz are more powerful for separation of concerns
+</li></ul>
+</dd></dl>
+<ul><li> Separation of concerns
+</li></ul>
+<dl><dd><ul><li> "cool"
+</li><li> but "scary"
+</li><li> breaks encapsulation - you can advise private methods including constructors!
+</li></ul>
+</dd></dl>
+<ul><li> Reasonably easy to use (particularly the annotations)
+</li></ul>
+<h4> <span class="mw-headline" id="Conclusion"> Conclusion </span></h4>
+<p>Aspect&lt;nop&gt;J is probably the one to watch, particularly now that it is merging with the Aspect&lt;nop&gt;Werkz tool.
+</p>
+<h4> <span class="mw-headline" id="List_of_references_to_real-world_experiences"> List of references to real-world experiences </span></h4>
+<ul><li> <a href="http://www2.cs.ucy.ac.cy/~george/SAC04b.pdf" class="external free" rel="nofollow">http://www2.cs.ucy.ac.cy/~george/SAC04b.pdf</a> - an evaluation of AOP in the development of a high-performance component-based web-crawling system, which compares the process with the development of the same system without AOP. The results of the case study mostly favor the aspect oriented paradigm.
+</li><li> <a href="http://portal.acm.org/citation.cfm?id=1052898.1052902" class="external free" rel="nofollow">http://portal.acm.org/citation.cfm?id=1052898.1052902</a> - by adding a Qo&lt;nop&gt;S aspect package to an existing system without Qo&lt;nop&gt;S guarantees, the authors were able to use the same system in unpredictable environments where performance guarantees were essential. Furthermore, by exchanging aspects within the Qo&lt;nop&gt;S aspect package they were able to efficiently tailor the Qo&lt;nop&gt;S management of a real-time system based on the application requirements. In a case study of an embedded real-time database system, called COMET, they demonstrated how a real-time database system could be adapted for use in different applications with distinct Qo&lt;nop&gt;S needs.
+</li><li> <a href="http://www.info.ucl.ac.be/people/PVR/aopabstract.html" class="external free" rel="nofollow">http://www.info.ucl.ac.be/people/PVR/aopabstract.html</a> - abstract and presentation slides of a talk given to the Belgian Symposium and Contact Day on Software Evolution and Aspect-Oriented Programming. Ghent, Belgium, May 3, 2004, which caused a bit of a stir - it showed how the application architecture had to change with each new aspect, because it increases the complexity of the system.
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 30/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava">http://www.spaconference.org/mediawiki/index.php?title=IntroductionToAspectOrientedDevelopmentInJava</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:IntroductionToAspectOrientedDevelopmentInJava&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="http://www.spaconference.org/mediawiki/index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;action=edit&amp;oldid=4453" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=IntroductionToAspectOrientedDevelopmentInJava&amp;returntoquery=direction%3Dprev%26oldid%3D4454" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FIntroductionToAspectOrientedDevelopmentInJava" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FIntroductionToAspectOrientedDevelopmentInJava" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="http://www.spaconference.org/mediawiki/index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;direction=prev&amp;oldid=4454&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="http://www.spaconference.org/mediawiki/index.php?title=IntroductionToAspectOrientedDevelopmentInJava&amp;oldid=4453" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.202 secs. --></body></html>

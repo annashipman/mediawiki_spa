@@ -1,0 +1,478 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>ExtensibleArchitecturesBestPractices - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="ExtensibleArchitecturesBestPractices",
+wgTitle="ExtensibleArchitecturesBestPractices",
+wgAction="view",
+wgArticleId=2341,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4224,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-ExtensibleArchitecturesBestPractices skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">ExtensibleArchitecturesBestPractices</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=ExtensibleArchitecturesBestPractices#column-one">navigation</a>, <a href="index.php?title=ExtensibleArchitecturesBestPractices#searchInput">search</a></div>
+		<!-- start content -->
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Participants_and_organizers:"><span class="tocnumber">1</span> <span class="toctext">Participants and organizers:</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Sheets_at_the_official_OT_wall_.28Session_Output.29"><span class="tocnumber">2</span> <span class="toctext">Sheets at the official OT wall (Session Output)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Extension_Mechanisms_for_Extensible_Architectures"><span class="tocnumber">2.1</span> <span class="toctext">Extension Mechanisms for Extensible Architectures</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Additional_Concerns_when_building_extensible_architectures"><span class="tocnumber">2.2</span> <span class="toctext">Additional Concerns when building extensible architectures</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Examples_for_Extensible_Systems"><span class="tocnumber">2.3</span> <span class="toctext">Examples for Extensible Systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Session_Work"><span class="tocnumber">3</span> <span class="toctext">Session Work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Presentation_of_exiting_extensible_systems"><span class="tocnumber">3.1</span> <span class="toctext">Presentation of exiting extensible systems</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Techniques.2C_Process.2C_Role_for_extensions"><span class="tocnumber">3.2</span> <span class="toctext">Techniques, Process, Role for extensions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Metalevel_Architectures_.28mostly_for_data_extension.29_.5BT.2CE.5D"><span class="tocnumber">3.2.1</span> <span class="toctext">Metalevel Architectures (mostly for data extension) [T,E]</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Aspects_.5BE.5D"><span class="tocnumber">3.2.2</span> <span class="toctext">Aspects [E]</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Code_Generation_.5BT.2CE.5D"><span class="tocnumber">3.2.3</span> <span class="toctext">Code Generation [T,E]</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Specialization_.5BE.5D"><span class="tocnumber">3.2.4</span> <span class="toctext">Specialization [E]</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Dependency_Inversion_.5BT.5D"><span class="tocnumber">3.2.5</span> <span class="toctext">Dependency Inversion [T]</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Process_issues"><span class="tocnumber">3.3</span> <span class="toctext">Process issues</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Identify_extension_points_.28explicitly.29_.5BP.5D"><span class="tocnumber">3.3.1</span> <span class="toctext">Identify extension points (explicitly) [P]</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Complexity_of_interfaces_.5BP.5D"><span class="tocnumber">3.3.2</span> <span class="toctext">Complexity of interfaces [P]</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Factoring_common_behaviour_into_the_core_system_.5BP.5D"><span class="tocnumber">3.3.3</span> <span class="toctext">Factoring common behaviour into the core system [P]</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Contracts_and_QoS_.5BT.2CP.5D"><span class="tocnumber">3.3.4</span> <span class="toctext">Contracts and QoS [T,P]</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Do_extensions_.7Bbuild_upon_.7C_know_about.7D_each_other.3F"><span class="tocnumber">3.3.5</span> <span class="toctext">Do extensions {build upon | know about} each other?</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Installation_process.2Fregistry_.28plugger.29_.28optional.29_.5BT.2CR.5D"><span class="tocnumber">3.3.6</span> <span class="toctext">Installation process/registry (plugger) (optional) [T,R]</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Integration_component_.28optional.29_.5BT.2CR.5D"><span class="tocnumber">3.3.7</span> <span class="toctext">Integration component (optional) [T,R]</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="index.php?title=ExtensibleArchitecturesBestPractices#We_need_to_decide_.5BT.2CR.5D"><span class="tocnumber">3.3.8</span> <span class="toctext">We need to decide [T,R]</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Common_data_structures_.252b_arbitrary_contributors_.5BE.2CT.5D"><span class="tocnumber">3.3.9</span> <span class="toctext">Common data structures&nbsp;%2b arbitrary contributors [E,T]</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Scripting_language_.5BT.2CE.5D"><span class="tocnumber">3.3.10</span> <span class="toctext">Scripting language [T,E]</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="index.php?title=ExtensibleArchitecturesBestPractices#Abstract_interfaces_.252b_implementations_-.3E_Strategy_.5BT.2CE.5D"><span class="tocnumber">3.3.11</span> <span class="toctext">Abstract interfaces&nbsp;%2b implementations -&gt; Strategy [T,E]</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h3> <span class="mw-headline" id="Participants_and_organizers:"> Participants and organizers: </span></h3>
+<ul><li> <a class="__cf_email__" href="http://www.spaconference.org/cdn-cgi/l/email-protection" data-cfemail="42232e232c022d21362d32372e2e6c26272f2d2c6c212d6c3729">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> (<a href="./index.php?title=User:AlanGriffiths" title="User:AlanGriffiths">AlanGriffiths</a>)
+</li><li> <a class="__cf_email__" href="http://www.spaconference.org/cdn-cgi/l/email-protection" data-cfemail="0d606c7f7c786c7f69794d6c6e6023627f6a">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> (<a href="./index.php?title=User:KlausMarquardt" title="User:KlausMarquardt">KlausMarquardt</a>)
+</li><li> <a class="__cf_email__" href="http://www.spaconference.org/cdn-cgi/l/email-protection" data-cfemail="355a595c43504775565a475452505b1b565a58">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> or <a class="__cf_email__" href="http://www.spaconference.org/cdn-cgi/l/email-protection" data-cfemail="93fcfffae5f6e1bdf4f2fffffce4f2eabeffe6fdfdd3e7f5fdbdf0fcfe">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> (<a href="http://www.spaconference.org/mediawiki/index.php?title=OliverGallowayLunn&amp;action=edit&amp;redlink=1" class="new" title="OliverGallowayLunn (page does not exist)">OliverGallowayLunn</a>)
+</li><li> <a class="__cf_email__" href="http://www.spaconference.org/cdn-cgi/l/email-protection" data-cfemail="c1b5aeafb8efa3a0b3b3a4b5b5ecb1aeb6a4adad81aeb3a0a2ada4efa2aeac">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> (<a href="./index.php?title=User:TonyBarrettPowell" title="User:TonyBarrettPowell">TonyBarrettPowell</a>)
+</li><li> <a class="__cf_email__" href="http://www.spaconference.org/cdn-cgi/l/email-protection" data-cfemail="1a6c7f687b346a7f6e7f68695a6e68636234797577">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> (<a href="./index.php?title=User:VeraPeeters" title="User:VeraPeeters">VeraPeeters</a>)
+</li><li> <a class="__cf_email__" href="http://www.spaconference.org/cdn-cgi/l/email-protection" data-cfemail="fa8c959f968e9f88ba9b9997d495889d">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> (<a href="./index.php?title=User:MarkusVoelter" title="User:MarkusVoelter">MarkusVoelter</a>)
+</li></ul>
+<h3> <span class="mw-headline" id="Sheets_at_the_official_OT_wall_.28Session_Output.29"> Sheets at the official OT wall (Session Output) </span></h3>
+<h4> <span class="mw-headline" id="Extension_Mechanisms_for_Extensible_Architectures"> Extension Mechanisms for Extensible Architectures </span></h4>
+<ul><li> Specialization
+</li></ul>
+<dl><dd><ul><li> Pros: support in (some) programming languages
+</li><li> Cons: poorly understood by programmers
+</li></ul>
+</dd></dl>
+<ul><li> Common data structures / protocols (app level)
+</li></ul>
+<dl><dd><ul><li> Pros: loosely coupled, runtime extension
+</li><li> Cons: complex to interact(????), lack of standardization
+</li></ul>
+</dd></dl>
+<ul><li> scripting language
+</li></ul>
+<dl><dd><ul><li> Pros: flexible, low maintenance
+</li><li> Cons: hard to validate, can “break” application
+</li></ul>
+</dd></dl>
+<ul><li> code generation
+</li></ul>
+<dl><dd><ul><li> Pros: powerful, efficient
+</li><li> Cons: extra build steps, consequence of errors/change
+</li></ul>
+</dd></dl>
+<ul><li> aspects
+</li></ul>
+<dl><dd><ul><li> Pros: powerful
+</li><li> Cons: knowledge rare, limited support
+</li></ul>
+</dd></dl>
+<ul><li> abstract interfaces&nbsp;%2b implementations
+</li></ul>
+<dl><dd><ul><li> c.f. specialization
+</li></ul>
+</dd></dl>
+<h4> <span class="mw-headline" id="Additional_Concerns_when_building_extensible_architectures"> Additional Concerns when building extensible architectures </span></h4>
+<ul><li> Extension time: when can you extend the system: build time, deployment time, run time, …
+</li><li> Quality of service: how do you ensure that extensions don’t break the overall system with regards to performance, resources, robustness
+</li><li> dependencies and interactions: you have to manage dependencies among extensions -&gt; which extensions have to be used / can’t be used at the same time? (e.g. because of resource conflicts)
+</li><li> planned or discovered: are extension points explicitly planned or discovered during building one or more systems?
+</li><li>  additional components: is there a central extension registry/manager that keeps track of all the extensions in a system? And coordinates the installation process?
+</li><li> cascading: can extensions define additional extension points?
+</li><li> testing and validation: how can an extensible system be tested / and concrete configurations be validated (???? Should be: verified)
+</li><li> life cycle management: who starts up / shuts down extensions?
+</li><li> coupling: tight or loosely? A priori versus a posteriori
+</li></ul>
+<h4> <span class="mw-headline" id="Examples_for_Extensible_Systems"> Examples for Extensible Systems </span></h4>
+<ul><li> <a href="index.php?title=MicroMarketer" title="MicroMarketer">MicroMarketer</a>  -&gt; data source, filter algorithm
+</li><li> <a href="index.php?title=OnlineMortgage" title="OnlineMortgage">OnlineMortgage</a> -&gt; countries, and financial products
+</li><li> <a href="index.php?title=LaboratorySystemsManager" title="LaboratorySystemsManager">LaboratorySystemsManager</a> -&gt; lab analyzer machines
+</li><li> <a href="index.php?title=StockPrediction" title="StockPrediction">StockPrediction</a> -&gt; algorithms
+</li><li> <a href="index.php?title=MetaDataStore" title="MetaDataStore">MetaDataStore</a> -&gt; data; defines meta data for concrete DB
+</li><li> <a href="index.php?title=ComponentContainer" title="ComponentContainer">ComponentContainer</a> -&gt; component interfaces code generation
+</li></ul>
+<h3> <span class="mw-headline" id="Session_Work"> Session Work </span></h3>
+<h4> <span class="mw-headline" id="Presentation_of_exiting_extensible_systems"> Presentation of exiting extensible systems </span></h4>
+<ul><li> <a href="index.php?title=MicroMarketer" title="MicroMarketer">MicroMarketer</a>  -&gt; data source, filter algorithm
+</li><li> <a href="index.php?title=OnlineMortgage" title="OnlineMortgage">OnlineMortgage</a> -&gt; countries, and financial products
+</li><li> <a href="index.php?title=LaboratorySystemsManager" title="LaboratorySystemsManager">LaboratorySystemsManager</a> -&gt; lab analyzer machines
+</li><li> <a href="index.php?title=StockPrediction" title="StockPrediction">StockPrediction</a> -&gt; algorithms
+</li><li> <a href="index.php?title=MetaDataStore" title="MetaDataStore">MetaDataStore</a> -&gt; data; defines meta data for concrete DB
+</li><li> <a href="index.php?title=ComponentContainer" title="ComponentContainer">ComponentContainer</a> -&gt; component interfaces code generation
+</li><li> <a href="index.php?title=OlcLibrary" title="OlcLibrary">OlcLibrary</a>
+</li><li> <a href="index.php?title=ExtensionByApplicationLevelProtocol" title="ExtensionByApplicationLevelProtocol">ExtensionByApplicationLevelProtocol</a>
+</li></ul>
+<h4> <span class="mw-headline" id="Techniques.2C_Process.2C_Role_for_extensions"> Techniques, Process, Role for extensions </span></h4>
+<p>Abbreviations: <b>T</b>-echniques, <b>P</b>-rocess, <b>R</b>-ole, <b>E</b>-xtension Type
+</p>
+<h5> <span class="mw-headline" id="Metalevel_Architectures_.28mostly_for_data_extension.29_.5BT.2CE.5D"> Metalevel Architectures (mostly for data extension) [T,E] </span></h5>
+<ul><li> Pros:
+</li></ul>
+<dl><dd><ul><li> ultra-flexible
+</li><li> often easy to use
+</li><li> extendible at runtime
+</li></ul>
+</dd></dl>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> possibly complex
+</li><li> performance?
+</li><li> constraints
+</li><li> validation?
+</li><li> understandability
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id="Aspects_.5BE.5D"> Aspects [E] </span></h5>
+<p><i>(Weave, interceptions)</i>
+allow you to extend systems with crosscutting concerns
+</p>
+<ul><li> Pros:
+</li></ul>
+<dl><dd><ul><li> powerful concept especially for a posteriori extensions
+</li></ul>
+</dd></dl>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> not currently natively supported by PL’s -&gt; preprocessing, frameworking
+</li><li> few people are really familiar with them
+</li><li> can’t separate extension development from extendee development (if using weaving)
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id="Code_Generation_.5BT.2CE.5D"> Code Generation [T,E] </span></h5>
+<p><i>(for behavioural extension adaptation)'</i> <b>(might also be metamodel bored)  (????)</b>
+</p>
+<ul><li> Pros:
+</li></ul>
+<dl><dd><ul><li> very powerful and efficient
+</li></ul>
+</dd></dl>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> maintenance
+</li><li> consequence of change
+</li><li> integration with the build process
+</li><li> errors in generator have high impact
+</li><li> extra step in build process -&gt; ease of programming
+</li><li> not at run time
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id="Specialization_.5BE.5D"> Specialization [E] </span></h5>
+<ul><li> Pros:
+</li></ul>
+<dl><dd><ul><li> explicit support in some programming languages
+</li></ul>
+</dd></dl>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> poorly understood by programmers
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id="Dependency_Inversion_.5BT.5D"> Dependency Inversion [T] </span></h5>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> interface is defined in a layer with no knowledge of implementation
+</li><li> interface changes&nbsp;%2b (framework)
+</li></ul>
+</dd></dl>
+<h4> <span class="mw-headline" id="Process_issues"> Process issues </span></h4>
+<h5> <span class="mw-headline" id="Identify_extension_points_.28explicitly.29_.5BP.5D"> Identify extension points (explicitly) [P] </span></h5>
+<ul><li> planned, or
+</li><li> discovered over time  -&gt; refactoring
+</li><li> learning process
+</li><li> consider extension points even in systems not initially intended to become extendible
+</li><li> plug-ins / applications could have a large number of different extension points
+</li><li> refactoring / copy &amp; paste is an indication for an extension point
+</li><li> can an extension itself have further extension points? Yes - e.g. composite pattern
+</li><li> Fear
+</li></ul>
+<h5> <span class="mw-headline" id="Complexity_of_interfaces_.5BP.5D"> Complexity of interfaces [P] </span></h5>
+<ul><li> common purpose leads to bloated IF
+</li><li> usability demands small, concise, coherent IF
+</li><li> requires explicit effort, architecture
+</li><li> too much complexity
+</li></ul>
+<dl><dd><ul><li> identify new extension points?
+</li><li> split extensions
+</li></ul>
+</dd></dl>
+<p><br />
+</p>
+<h5> <span class="mw-headline" id="Factoring_common_behaviour_into_the_core_system_.5BP.5D"> Factoring common behaviour into the core system [P] </span></h5>
+<ul><li> risk: you need to change the core system and potential influence on other extensions
+</li><li> do this while in development, stop it when publishing (a release)
+</li><li> tight coupling of all system components - not technically, but by process
+</li><li> backward compatibility -&gt; can you change extension points yourself?
+</li></ul>
+<h5> <span class="mw-headline" id="Contracts_and_QoS_.5BT.2CP.5D"> Contracts and <a href="http://www.spaconference.org/mediawiki/index.php?title=QoS&amp;action=edit&amp;redlink=1" class="new" title="QoS (page does not exist)">QoS</a> [T,P] </span></h5>
+<ul><li> how to ensure specific <a href="http://www.spaconference.org/mediawiki/index.php?title=QoS&amp;action=edit&amp;redlink=1" class="new" title="QoS (page does not exist)">QoS</a> characteristics of extensions
+</li><li> resource management (memory, ports, …)
+</li><li> performance
+</li><li> mutual influence
+</li><li> Is part of the contract related to an integration point
+</li><li> Manage dependencies among extensions&nbsp;?!?
+</li><li> Measurement, testing
+</li></ul>
+<h5> <span class="mw-headline" id="Do_extensions_.7Bbuild_upon_.7C_know_about.7D_each_other.3F"> Do extensions {build upon | know about} each other? </span></h5>
+<ul><li> Base interface, or concrete subtypes?
+</li><li> NO: independent development, testable
+</li><li> YES: (see eclipse project) growing systems
+</li><li> feedback between extensions?
+</li><li> complexity (&nbsp;???? extension at multiple levels)
+</li><li> predictablility &amp; testability of extension behaviour
+</li></ul>
+<h5> <span class="mw-headline" id="Installation_process.2Fregistry_.28plugger.29_.28optional.29_.5BT.2CR.5D"> Installation process/registry (plugger) (optional) [T,R] </span></h5>
+<ul><li> again: runtime, build time, code time etc
+</li><li> who will register the extensions?
+</li><li> installation dependencies. E.g. only install A if B&amp;C already installed. Or else: build new rule into core system
+</li><li> life cycle control
+</li></ul>
+<h5> <span class="mw-headline" id="Integration_component_.28optional.29_.5BT.2CR.5D"> Integration component (optional) [T,R] </span></h5>
+<p>Has knowledge of the extensions
+</p>
+<ul><li> avoid this when 3rd parties develop further extensions
+</li><li> when to register?
+</li></ul>
+<dl><dd><ul><li> “dumb” registry ( on a generic level)
+</li><li> “intelligent” registry, has knowledge of the extensions’ semantics
+</li></ul>
+<dl><dd><ul><li> integrating component
+</li></ul>
+</dd></dl>
+</dd></dl>
+<ul><li> centralize the integrating component
+</li><li> how can you test / verify the system without this “integrating component” [Jackson, combination problem]
+</li></ul>
+<h5> <span class="mw-headline" id="We_need_to_decide_.5BT.2CR.5D"> We need to decide [T,R] </span></h5>
+<ul><li> Who / when to extend: deployment time, build time, run time, programming time
+</li></ul>
+<dl><dd><ul><li> programming time is most easy&nbsp;%2b flexible for system owners
+</li><li> run time is most complex for development, but allows for user administration
+</li><li> this impacts on how extensions are validated
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id="Common_data_structures_.252b_arbitrary_contributors_.5BE.2CT.5D"> Common data structures&nbsp;%2b arbitrary contributors [E,T] </span></h5>
+<ul><li> Application level protocol
+</li><li> Pros:
+</li></ul>
+<dl><dd><ul><li> loosely coupled
+</li><li> standards are available for a large number of domains
+</li><li> extensible at runtime
+</li></ul>
+</dd></dl>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> you need to agree on a shared, common protocol / data structure
+</li><li> standards are available for a large number of domains but maybe not for yours
+</li><li> complex protocol
+</li><li> possibly complex to integrate
+</li><li> backward compatibility
+</li><li> no extension of behaviour, only of raw data
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id="Scripting_language_.5BT.2CE.5D"> Scripting language [T,E] </span></h5>
+<ul><li> Pros:
+</li></ul>
+<dl><dd><ul><li> very flexible
+</li><li> reduced maintenance
+</li></ul>
+</dd></dl>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> potentially dangerous because it is hard to control what people “script”
+</li><li> maintenance of language / additions
+</li><li> decision on restricting to “safe” functionality versus trusting script author
+</li><li> backward compatibility
+</li><li> could become too complex
+</li><li> extremely hard to test, could break the entire application
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id="Abstract_interfaces_.252b_implementations_-.3E_Strategy_.5BT.2CE.5D"> Abstract interfaces&nbsp;%2b implementations -&gt; Strategy [T,E] </span></h5>
+<ul><li> Or provide a default impl? -&gt; backward compatibility
+</li><li> Mechanism for defining extension points
+</li><li> Pros:
+</li></ul>
+<dl><dd><ul><li> easy to understand (in an OO world), common sense
+</li></ul>
+</dd></dl>
+<ul><li> Cons:
+</li></ul>
+<dl><dd><ul><li> hard to implement using component techniques like COM, because here the extensions might not be able to call the core system (limited ability to “inherit”)
+</li></ul>
+</dd></dl>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 98/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:2341-0!1!0!!en!2!edit=0 and timestamp 20170708093914 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=ExtensibleArchitecturesBestPractices">http://www.spaconference.org/mediawiki/index.php?title=ExtensibleArchitecturesBestPractices</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=ExtensibleArchitecturesBestPractices" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:ExtensibleArchitecturesBestPractices&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=ExtensibleArchitecturesBestPractices&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=ExtensibleArchitecturesBestPractices&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=ExtensibleArchitecturesBestPractices" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FExtensibleArchitecturesBestPractices" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FExtensibleArchitecturesBestPractices" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="index.php?title=ExtensibleArchitecturesBestPractices&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="index.php?title=ExtensibleArchitecturesBestPractices&amp;oldid=4224" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 2 June 2011, at 11:53.</li>
+		<li id="viewcount">This page has been accessed 107 times.</li>
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.186 secs. --></body></html>

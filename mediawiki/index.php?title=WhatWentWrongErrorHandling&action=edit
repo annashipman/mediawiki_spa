@@ -1,0 +1,316 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>View source - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="next" href="index.php?title=WhatWentWrongErrorHandling" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<!--[if IE 8]><link rel="stylesheet" href="/mediawiki/skins/common/IE80Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="WhatWentWrongErrorHandling",
+wgTitle="WhatWentWrongErrorHandling",
+wgAction="edit",
+wgArticleId=3158,
+wgIsArticle=false,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=true,
+wgCurRevisionId=5960,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="http://www.spaconference.org/mediawiki/skins/common/edit.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-WhatWentWrongErrorHandling skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">WhatWentWrongErrorHandling</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">for <a href="index.php?title=WhatWentWrongErrorHandling" title="WhatWentWrongErrorHandling">WhatWentWrongErrorHandling</a></div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=WhatWentWrongErrorHandling&amp;action=edit#column-one">navigation</a>, <a href="index.php?title=WhatWentWrongErrorHandling&amp;action=edit#searchInput">search</a></div>
+		<!-- start content -->
+<p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Users&amp;action=edit&amp;redlink=1" class="new" title="SPA Wiki:Users (page does not exist)">Users</a>.
+</p>
+</div>
+<p>You can view and copy the source of this page:
+</p><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">== WS8 - What Went Wrong?&lt;BR/>Error Handling in a Distributed System ==
+
+==== Andy Longshaw and Eoin Woods ====
+
+=== Acknowledgements ===
+Many thanks to [[User:TonyBarrettPowell|TonyBarrettPowell]] for making excellent notes during the session, which became this output with minimal editing!
+
+=== Good Error Handling Practices ===
+
+* Create a logging hierarchy and classify each error withing the hierarchy.
+* Allow error filtering based on the logging hierarchy and don't perform message related processing (e.g. creating debug strings) if the message isn't included in the current filter.
+* Detect and report errors at the "right" place (e.g. validating input).
+* Log details where error occurs and convert to more general error/concept for propagation back to caller.
+* Create a repository of all known errors.
+* Rotate developers into support for a time.
+* Separate error detection from error logging from error handling.
+* Report the operational context with the error information.
+* Log a unique operation ID with error context (to allow pieces of error information to be strung together).
+* Only intercept and handle an error if you can do something useful with it.
+* Explore failure scenarios with users to find out how important different errors are to them.
+* Classify each errors to allow them to be treated in groups.
+* When errors occur, continue with reduced functionality if possible.
+
+=== Bad Error Handling Practices ===
+
+* Shutting down the system on error.
+* No standards (for error handling).
+* Propagating errors that should be handled locally.
+* Exposing technical detail to end users.
+* Wrong use of unchecked exceptions.
+* Non-errors reported as errors.
+* Reporting "normal" business errors as exceptions.
+* Attempting to retro-fit a error handling strategy.
+* Vague errors that don't clearly define what happened and where.
+* Inflexible timeouts causing spurious errors.
+* Losing lead developers when production transition is complete.
+
+=== Team 1 Framework ===
+
+==== Context ====
+
+Error handling for a large distributed system involving a large number of data sources in existing operational systems on different platforms.
+
+==== Framework Structure ====
+
+&lt;pre>
+        Presentation  ---------------->  Central Log
+             !                     !         ^
+       Business Layer -------------%2b         !
+             !                     !         !
+      Data Access Layer -----------%2b         !
+             !                            Log Message Interface (MQ)
+     -----------------                       ^
+     !     !     !    !                      !
+    Sys1  Sys2  Sys3 Sys4                    !
+   [Shared Legacy Systems]                   !
+     ^     ^     ^     ^                     !
+   [[LogD]]1  [[LogD]]2 [[LogD]]3  [[LogD]]4-----------------%2b
+       [Logging Daemons]
+&lt;/pre>
+* The system structure is on the left:
+* Presentation later displays user interface, accesses Business Layer
+* Business Layer provides business txn logic, accesses Data Access Layer
+* The shared legacy systems are the sourcess of data for the business transactions, accessed via the Data Access Layer
+* The unified logging system is on the right:
+* Single central log "server"
+* Presentation, Business and Data Access layers access the log via a standard programming library.
+* A Logging Daemon is created for each legacy system, which runs on the remote machine, recognises error or status conditions of interest and sends log messages to the central log.
+* The Logging Daemons access the central log via a message based (IBM MQ) service interface.
+
+==== Principles ====
+
+* Centralised logs (accessed via MQ messaging interface)
+* Provide tools to navigate errors
+* Add entries to the log at all of the levels of the system.
+* Session Id, Application Id would be used to identify errors
+* The legacy systems must be included into the error logging (using the MQ interface and a logging monitor on the legacy system to send error to the Central Log).
+* For further analysis the legacy systems may require a service interface to enable search and filter of the error log.
+* The classification of what is logged should be provided to the developers in this environment, for example what to log in the central log.
+* Some form of information is required to identify what happens when an error occurs, for example what an operater should do when an error occurs.
+
+=== Team 2 Framework ===
+
+==== Context ====
+There are a mix of technologies, the principle should be to make it easy for th developers no matter what the technology is.
+
+==== Principles ====
+
+* Centralised Error Definitions (codes, format, classification, required supplementary information)
+*Example class structure for exception:
+&lt;pre>			
+                      Exception
+		    	       !
+		  ----------------------
+		  !                    !
+	    Application           System
+           Exception           Exception
+{| border="1"
+ |            ||
+ |}
+         ---------------
+         !       !      !
+        ...     ...     ...
+     [Types of app. exception]
+&lt;/pre>
+* Example Error class:
+&lt;pre>
+        // The error has a unique id obtained at construction.
+        class Error 
+        {
+            public Error()
+            public Error(Error e)
+            toString()
+            getID()
+            setCode([[ErrorCode]] code)
+            setParameter(name, value)
+            isRetryable()
+            raise()  // throws the exception for the specific error
+        }
+
+        class [[ErrorReport]]
+        { 
+           // If the error is not known or does not contain appropriate 
+           // information this is also an error condition.
+           public [[ErrorReport]](Error e)
+           setCorrelationId(Id id)
+           toLog()
+           toSNMP()
+        }
+&lt;/pre>
+* Abstract errors to the next level of system.
+* Retry information can be included in the error.
+* Layers can modify the retry information as required.
+
+
+=== Team 3 Framework ===
+
+==== Context ====
+Definition of a framework of principles for error handling in large distributed information systems.
+
+==== Principles ====
+* Create a set of central error definitions.
+* Handle errors at system boundaries.
+* Classify errors to allow them to be processed appropriately.
+* Log errors at boundaries of the system's levels.
+* Enrich error information as the error propagate between the different levels of the system.
+* Ensure that each instance of an error has a unique identifier.
+
+Back to [[OtTwoThousandAndFourOutput]].</textarea><div class='templatesUsed'>
+
+</div>
+<p id="mw-returnto">Return to <a href="index.php?title=WhatWentWrongErrorHandling" title="WhatWentWrongErrorHandling">WhatWentWrongErrorHandling</a>.</p>
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=WhatWentWrongErrorHandling">http://www.spaconference.org/mediawiki/index.php?title=WhatWentWrongErrorHandling</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=WhatWentWrongErrorHandling" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:WhatWentWrongErrorHandling&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource" class="selected"><a href="index.php?title=WhatWentWrongErrorHandling&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=WhatWentWrongErrorHandling&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=WhatWentWrongErrorHandling&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FWhatWentWrongErrorHandling" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FWhatWentWrongErrorHandling" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.154 secs. --></body></html>

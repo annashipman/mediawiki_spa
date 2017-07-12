@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>XpInTheRealWorld - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="XpInTheRealWorld",
+wgTitle="XpInTheRealWorld",
+wgAction="view",
+wgArticleId=3175,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5994,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-XpInTheRealWorld skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">XpInTheRealWorld</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="./index.php?title=Special:Random#column-one">navigation</a>, <a href="./index.php?title=Special:Random#searchInput">search</a></div>
+		<!-- start content -->
+<p><b>Please do not edit this page.</b> If you want to comment on or discuss the session please use <a href="index.php?title=RealWorldXpDiscussion" title="RealWorldXpDiscussion">RealWorldXpDiscussion</a>. Cheers!
+</p><p>---
+</p>
+<h5> <span class="mw-headline" id="Outputs_from_OT2001_session:"> Outputs from OT2001 session: </span></h5>
+<h3> <span class="mw-headline" id="Extreme_Programming_in_the_Real_World"> Extreme Programming in the Real World </span></h3>
+<h5> <span class="mw-headline" id="Stephen_Hutchinson_and_Matt_Stephenson"> Stephen Hutchinson and Matt Stephenson </span></h5>
+<p>Thanks to everyone who attended the session at OT2001 and participated in such an enthusiastic manner. Thanks also to the folks at Royal &amp; Sunalliance for helping us prepare for the session by taking part in the practice sessions.
+</p><p>Apologies to anyone who left me their email address but has not been notified by me about this page... I could not make out all of the addresses and had to guess a bit!
+</p><p>The output from the practice and real sessions is included here.
+</p><p><b>Please do not edit this page.</b> If you want to comment on or discuss the session please use <a href="index.php?title=RealWorldXpDiscussion" title="RealWorldXpDiscussion">RealWorldXpDiscussion</a>. Cheers!
+</p><p><b>Objective of Session</b>
+</p><p>To get the participants to consider the obstacles and challenges that may be encountered when introducing Extreme Programming into a large organisation.
+</p><p><b>Anti-objective of Session</b>
+</p><p>We did <b>not</b> discuss the <i>vices</i> or <i>virtues</i> of Extreme Programming. We asked that anyone attending the session worked from the basis of us already having made a decision to use XP on this (imaginary) project, rather than consider whether we should use it or not.
+</p><p>There are plenty of other people who will happily have a debate about whether XP is any good or not... We already believe that it is!
+</p><p><b>Session Format</b>
+</p><p>The main body of the session took the form of two brainstorming sessions followed by group presentations.
+</p><p>The first brainstorm was to consider (in groups) the problems that are likely to be encountered in introducing the XP Method into a large organisation. We gave the participants a scenario that described the imaginary company under consideration, to help trigger the discussion.
+</p><p>We then went around the room asking each group to give us the problems. Stephen put them onto post-it notes and stuck them on a board. When all of the groups had given us all of their problems, each group selected a couple from the board.
+</p><p>The groups then used these problems to brainstorm solutions. At the end of the brainstorm, the groups prepared single-page flipchart presentations, which they then presented. A discussion of each followed...
+</p><p><b>The Presentations and Discussions</b>
+</p><p><b>OUTPUT FROM THE OT2001 SESSION</b>
+</p><p><b>Problem:</b> How to estimate accurately for a new way of working?
+</p><p><b>Solutions:</b>
+</p><p><i>Process related</i>
+</p>
+<ul><li> Make the processes visible to all concerned.
+</li><li> Question and improve estimates over time with experience.
+</li><li> Reward good estimates.
+</li></ul>
+<p><i>Learning related</i>
+</p>
+<ul><li> (Small) Practice Projects.
+</li><li> Training.
+</li><li> Relate to everyday life (find day to day comparisons for the work and use those to estimate.
+</li><li> Use pairs to estimate the work.
+</li><li> Get "Old Hands" involved.
+</li></ul>
+<p>The discussion revolved around the fact that (as with any new way of working) it is a good idea to try it out on smaller projects. There is less risk to a company and it is less daunting for the developers involved who are being asked to work differently.
+</p><p><i>Velocity related</i>
+</p>
+<ul><li> Collect metrics
+</li><li> Use old information (from previous iterations)
+</li></ul>
+<p>This may seem like common sense, but the number of people who do not seem to learn from their previous efforts is frightening. Using <i>actuals</i> to compare alongside of previous <i>estimates</i> is an excellent way of judging your effectiveness at estimating.
+</p><p><b>Problem:</b> Integration with legacy code that has no test suite.
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Isolate your new code and treat the legacy stuff as a black box.
+</li><li> Write tests for the new code.
+</li><li> Ideally write tests for the legacy code, maybe in parallel to the new development.
+</li></ul>
+<p>Ideally, we <i>would</i> write tests for the legacy code, but unfortunately in the real world this is not going to happen. In our real project we made it a rule that if we needed to modify any existing code then we would write tests to ensure that we had not broken anything, but the task of retrospectively writing tests for a <i>huge</i> legacy system is just too onerous for most Programme budgets!
+</p><p><b>Problem:</b> Distributed Team (Cross Site Working)
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Reorganise the teams into the same location.
+</li><li> Divide the work up so that separate parts can be worked on at different locations.
+</li><li> Use technology to achieve remote access (Netmeeting, Phone, etc).
+</li><li> A main strategic team does the 'hard stuff' with satellite teams doing smaller discrete pieces of work.
+</li></ul>
+<p>This is potentially a difficult one. The whole cross site working issue can be very emotive, as people feel as though they have to work away from home to get involved in the exciting work. This is probably why the XP method advocates teams of not much more than 15 - 20 people. Interestingly, I spoke to someone at the conference who said they were <i>very successfully</i> running XP with 24 full time developers. They <i>were</i> all on one site though!
+</p><p><b>Problem:</b> Is the customer <i>really</i> available?
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Nominated representative of the customer to arbitrate, act as representative of the stakeholders and to champion the requirements.
+</li><li>"Paired Customers"
+</li></ul>
+<p>This is often seen as the single most difficult area to get right with XP in a large company. Typically there are so many business areas that need to input to a project that a single customer simply doesn't exist (never mind be available!). Beyond that, once a number of people have been identified who have a vested interest in the system being developed, they may each have their own agenda as to what the system should do. This is where a single "Customer Proxy" becomes invaluable. The Proxy insulates the development team against any customer conflicts and presents a single, consistent message to the developers, so that they can focus on what the need to do, i.e. <i>develop software</i>.
+</p><p><b>Problem:</b> Policing the Standards
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Automatic code checks / metrics (use tools?)
+</li><li> Peer Pressure should not be underestimated!
+</li><li> Have a "swear box" for poor code offenders.
+</li><li> Rogues Gallery (for poor code).
+</li><li> Hall of Fame (for good code).
+</li></ul>
+<p>Extreme Programming by definition of its techniques gives better automatic policing of standards, but some of the items listed here can help. The last three in the list should be taken as a bit of fun, but can still help to get developers into the mindset of writing good standards of code.
+</p><p><b>Problem:</b> Workspace and the environment
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Build a team work area that is devoid of distractions (email, telephones, etc), that developers can go to when they just need to <i>write code</i>.
+</li><li> Get convex desks so that paired developers are facing towards each other.
+</li><li> Get See-Saw Seats!
+</li></ul>
+<p>The shape of the desks is something that very few people ever think about, but it can have a bearing on the effectiveness of the team. If you are sitting in pairs at a <i>concave</i> desk, the developers will be facing away from each other. At a <i>convex</i> desk they will be facing towards each other (and the screen). The See-Saw seat was a joke! The idea being that you could only sit at the desk if you were in a pair. Stephen and I decided that it wouldn't help us to pair program better because I am about 4 stone heavier than him!
+</p><p><b>Problem:</b> Lack of experience in development team
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Get XP consultants in to mentor permanent staff.
+</li><li> Make sure the consultants meet everyone involved.
+</li><li> Send teams on training courses.
+</li></ul>
+<p>Extreme Programming lends itself very well to getting consultants in for a short period of time. If you do this, you have to make sure that the consultants are <i>always</i> pairing with a permanent member of staff, so that the knowledge transfer is always to your permies. The consultants can go out of the door as soon as the team can stand on its own two feet.
+</p><p><b>Problem:</b> Large Teams / people reluctant to change / not enough food!
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Don't involve everyone.
+</li><li> Ask for volunteers so that those who are keen get first refusal on being involved.
+</li><li> Work in the canteen.
+</li></ul>
+<p><b>OUTPUT FROM THE FIRST PRACTICE SESSION</b>
+</p><p><b>Problem:</b> Customer is not on-site / More than one customer
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Chunk project to have only one customer per chunk
+</li><li> Have a focal person on-site with rapid access to the customers [focal person must have the authority to resolve conflicts between customer groups]
+</li><li> Move the developers to be with the customers, or vice versa
+</li><li> Plan to have people available 100% [if you have to make do with on offsite customer you still need to have 100% availability]
+</li><li> Known role for all, particularly the customer side. (?)
+</li></ul>
+<p><b>Problem:</b> Selling XP
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Use reference site(s).
+</li><li> Prove through statistics and metrics
+</li><li> Explain the benefits to business of quick incremental delivery
+</li><li> Pre-empt negatives perceptions of XP
+</li><li> Explain the impact XP on people's roles and responsibilities (or define them up front) [answer the question 'What does it mean for me?']
+</li><li> Be pragmatic - introduce techniques gradually/incrementaly [but could get left with a horrible hybrid]
+</li><li> Hide the anoracks [there is a perception that the people promoting XP are code warriors]
+</li></ul>
+<p><b>Problem:</b> Part of the project is not using XP (i.e. XP on the front-end but awkward back-enders)
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Multi-disciplined programmers [in one big team with people doing both front and back-end coding in an XP way]
+</li><li> Single disciplined, all XP (sack 'em <i>this was a joke!!</i>) [i.e. get rid of people who don't want to do XP]
+</li><li> Constrain interfaces [ i.e. design interfaces between back and front-end up-front (which is not XP), then work (in an XP way) with the defined interface as an external constraint to the XP coders.]
+</li><li> Relax non-XP areas [persuade non-XP areas to be more responsive, e.g. to more frequent design changes, so as not to impede XP-style working by others]
+</li></ul>
+<p>[XP is seen as OK for O-O but not for COBOL because the mainframe COBOL development environment cannot be easily adapted to support automated testing or code refactoring. However, COBOL developers do not believe that this is the case.]
+</p><p><b>Problem:</b> Resistance Among Programmers To Pair Programming
+</p><p><i>What's Good About It?</i>
+</p>
+<ul><li> It's enjoyable
+</li><li> It allows you to learn new techniques, systems or languages quickly
+</li><li> Collective code ownership means you don't get lumbered with being the expert on a particular piece of the system.
+</li></ul>
+<p><b>Problem:</b> Buy in from business
+</p><p><i>How To Get It?</i>
+</p>
+<ul><li> Provide case studies of successful XP projects
+</li><li> Sell them on being involved throughout the life of the project
+</li><li> XP projects are reactive to change so business have control of direction
+</li><li> Business get early and continuous delivery delivering business benefit
+</li><li> Business can pull out early and still have achieved benefit
+</li><li> XP's emphasis on testing, especially regression testing, means business get high quality deliverables.
+</li></ul>
+<p><b>OUTPUT FROM THE SECOND PRACTICE SESSION</b>
+</p><p><b>Problem:</b> Lack of Traditional Dcoumentation Leading to Confusion
+</p><p><b>Solutions:</b>
+</p><p>New People
+</p>
+<ul><li> Pair Programming
+</li></ul>
+<p>Maintenance
+</p>
+<ul><li> Good coding Standards
+</li><li> Self documanting code
+</li></ul>
+<p>Sponsors want something tangible
+</p>
+<ul><li> On-site customer
+</li><li> High level documentation (e.g. Use Cases)
+</li></ul>
+<p><b>Problem:</b> Lack of Undersatnding of XP
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Get experts (consultants, or train in-house)
+</li><li> Pair experts with less experienced (pair programming)
+</li><li> Do workshop sessions like this
+</li><li> Use reference material
+</li></ul>
+<p><b>Problem:</b> Loners don't want to Pair Program
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Sell XP benefits
+</li><li> Link PP to personal development milestones
+</li><li> Put them on non-XP parts of the project
+</li><li> Sack 'em [this joke's wearing a bit thin]
+</li></ul>
+<p><b>Problem:</b> Cross Site Working
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Travel
+</li><li> Daily rotation
+</li><li> Use of technology
+</li></ul>
+<p>[At RSA we've tried pair programming over the phone using ILDM to see the other machine. It's OK for 10 minutes to sort a specific problem, but doesn't support real pair programming.]
+</p><p><b>Problem:</b> Difficulty of Planning Something You've Never Done Before
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Visit an XP site
+</li><li> Recruit a Guru
+</li><li> Trailblaze using a small project
+</li><li> Use XP as an excuse for late delivery [I think this is supposed to be a joke, at least I hope it is.]
+</li><li> Timebox
+</li></ul>
+<p><b>Problem:</b> Personal Development Milestones Linked to Deliverables in Existing Methodology
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Educate performance review personell
+</li><li> Re-define development targets to encompass XP tasks
+</li><li> Re-map job profile to cater for XP
+</li><li> Have a seperate competency profile for XP developers
+</li></ul>
+<p><b>Problem:</b> Personality Clashes Impair Pair Programming
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Team building excercises (e.g. alcohol based)
+</li><li> Pair friends together (initially)
+</li><li> Deodorant and mints
+</li><li> rotate pairs on a regular basis
+</li></ul>
+<p><b>Problem:</b> Integration with Mainframe Systems and Development Style
+</p><p><b>Solutions:</b>
+</p>
+<ul><li> Define SLA's for support teams, DBA's, etc..
+</li><li> Use wrappers to introduce OO developmernt to mainframe environment
+</li><li> Multiskilling to allow developers to work on both front-end and back-end
+</li><li> Involve back-end developers in analysis and design (encourage them to work with the business)
+</li><li> Pair front-end person with and back-end person.
+</li></ul>
+<p><b>Problem:</b> Lack of Buy-in to XP
+</p><p><b>Solutions:</b>
+</p><p><i>Business Management</i>
+</p>
+<ul><li> Take them to the pub
+</li><li> Visit other XP sites
+</li><li> Identify differences in approach
+</li><li> Sell Benefits:
+</li><li> Incremental delivery
+</li><li> Earlier delivery
+</li><li> Better understanding of requirements
+</li><li> Better quality
+</li><li> Closer relationship with development team
+</li></ul>
+<p><i>IS Management</i>
+</p>
+<ul><li> Spread of knowledge
+</li><li> Rounded, knowledgable flexible team
+</li><li> Closer control of speed/ incremental delivery
+</li><li> Demonstrates that IS is Change-Oriented and looking to improve
+</li><li> Improved quality, e.g. less maintenance and reduced error rate.
+</li></ul>
+<p><i>Development Team</i>
+</p>
+<ul><li> Learning new skills
+</li><li> Acess to wider experience in team
+</li><li> rewarding becasue you see results more quickly
+</li><li> More and wider opportunities
+</li><li> Clear links between personal development and project planning
+</li><li> More personal responsibility
+</li></ul>
+<p><i>Business Team</i>
+</p>
+<ul><li> Greater influance on deliverables - no surprises
+</li><li> Closer working relationships
+</li><li> Better understanding of what's delivered
+</li><li> More involved with decision making
+</li><li> Increased understanding of IS
+</li></ul>
+<p><i>General</i>
+</p><p>Feel Good Factor
+</p>
+<ul><li> No Isolation
+</li><li> Lots of Support
+</li><li> Less battling
+</li><li> SAME GOALS
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 11/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:3175-0!1!0!!en!2!edit=0 and timestamp 20170708093924 -->
+<div class="printfooter">
+Retrieved from "<a href="./index.php?title=Special:Random">http://www.spaconference.org/mediawiki/index.php?title=XpInTheRealWorld</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="./index.php?title=Special:Random" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:XpInTheRealWorld&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=XpInTheRealWorld&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=XpInTheRealWorld&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=XpInTheRealWorld" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FXpInTheRealWorld" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FXpInTheRealWorld" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="index.php?title=XpInTheRealWorld&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="index.php?title=XpInTheRealWorld&amp;oldid=5994" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 2 June 2011, at 11:57.</li>
+		<li id="viewcount">This page has been accessed 154 times.</li>
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.136 secs. --></body></html>

@@ -1,0 +1,586 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>ProductManagement - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="ProductManagement",
+wgTitle="ProductManagement",
+wgAction="view",
+wgArticleId=2885,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5312,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-ProductManagement skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">ProductManagement</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 11:55, 2 June 2011 by <a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="index.php?title=ProductManagement&amp;diff=prev&amp;oldid=5312" title="ProductManagement">diff</a>) <a href="index.php?title=ProductManagement&amp;direction=prev&amp;oldid=5312" title="ProductManagement">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#column-one">navigation</a>, <a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#searchInput">search</a></div>
+		<!-- start content -->
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Product_Management_-_the_Agile_Balancing_Act"><span class="tocnumber">1</span> <span class="toctext">Product Management - the Agile Balancing Act</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Think-tank_at_SPA2006"><span class="tocnumber">1.1</span> <span class="toctext">Think-tank at SPA2006</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Group_A"><span class="tocnumber">1.2</span> <span class="toctext">Group A</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Job_description"><span class="tocnumber">1.2.1</span> <span class="toctext">Job description</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Personal_profile"><span class="tocnumber">1.2.2</span> <span class="toctext">Personal profile</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Group_B"><span class="tocnumber">1.3</span> <span class="toctext">Group B</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Job_description_2"><span class="tocnumber">1.3.1</span> <span class="toctext">Job description</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Personal_profile_2"><span class="tocnumber">1.3.2</span> <span class="toctext">Personal profile</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Group_C"><span class="tocnumber">1.4</span> <span class="toctext">Group C</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Job_description_3"><span class="tocnumber">1.4.1</span> <span class="toctext">Job description</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Personal_profile_3"><span class="tocnumber">1.4.2</span> <span class="toctext">Personal profile</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Group_D"><span class="tocnumber">1.5</span> <span class="toctext">Group D</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Job_description_4"><span class="tocnumber">1.5.1</span> <span class="toctext">Job description</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Personal_profile_4"><span class="tocnumber">1.5.2</span> <span class="toctext">Personal profile</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="index.php?title=ProductManagement&amp;oldid=5312&amp;printable=yes#Some_links_and_resources"><span class="tocnumber">1.6</span> <span class="toctext">Some links and resources</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h3> <span class="mw-headline" id="Product_Management_-_the_Agile_Balancing_Act"> Product Management - the Agile Balancing Act </span></h3>
+<h4> <span class="mw-headline" id="Think-tank_at_SPA2006"> Think-tank at SPA2006 </span></h4>
+<p>Thanks to all who contributed to this session! The session presentation is available at
+</p>
+<pre>  <a href="http://www.davethehat.com/spa2006/" class="external free" rel="nofollow">http://www.davethehat.com/spa2006/</a><a href="http://www.spaconference.org/mediawiki/index.php?title=ProductManagementPresentation&amp;action=edit&amp;redlink=1" class="new" title="ProductManagementPresentation (page does not exist)">ProductManagementPresentation</a>.pdf
+</pre>
+<p>and the position paper (also in the conference documentation) at
+</p>
+<pre>  <a href="http://www.davethehat.com/spa2006/" class="external free" rel="nofollow">http://www.davethehat.com/spa2006/</a><a href="http://www.spaconference.org/mediawiki/index.php?title=ProductManagementPaper&amp;action=edit&amp;redlink=1" class="new" title="ProductManagementPaper (page does not exist)">ProductManagementPaper</a>.pdf
+</pre>
+<p>The major outputs of the session were job descriptions and role profiles for a product manager. These were developed by mining stories of project successes and failures for key points, which then suggested characteristics for both the role and the person performing it (see the presentation for a full description of the process and the brainstorming technique used)
+</p><p>For the Job Description, the four categories in which we identify requirements for the role are:
+</p>
+<ul><li> <b>Goals</b> - what are the deliverables of the person in the role
+</li><li> <b>Responsibilities</b> - what responsibility and authority does the individual have
+</li><li> <b>Activities</b> - what are the day-to-day activities that will achieve the goals
+</li><li> <b>Context</b> - What is the organisational, social and technological context of the position
+</li></ul>
+<p>For the personal profile, the categories are:
+</p>
+<ul><li> <b>Character</b> - particular character and personal traits
+</li><li> <b>Skills</b> - required skill for the role
+</li><li> <b>Experience</b> - what will the individual bring to the role
+</li><li> <b>Circumstance</b> - such as ability to travel, work remotely and so on
+</li></ul>
+<p>Note that each group was preparing a description for the job in a particular project (which might have been one of the stories, or which might have been a composite of these) - so one can generalise from (say) the skill requirement of "Financial skills" in Group A's personal profile to "user domain skills" in any.
+</p><p>As this was a think tank, we kept the teams under tight - extreme even - time pressure. Looking at the outputs, I think with more time the material might have ended up better organised (for example, there are several cases where a characteristic is, it seems to me, misplaced - a skill under the expereince section, for example). However, at this stage we've not changed any of the outputs (editorial additions are in [brackets]).
+</p><p>The outputs of each group are summarised below:
+</p>
+<hr />
+<h4> <span class="mw-headline" id="Group_A"> Group A </span></h4>
+<h5> <span class="mw-headline" id="Job_description"> Job description </span></h5>
+<p><b>Goals</b>
+</p>
+<ul><li> Identify:
+</li></ul>
+<dl><dd><ul><li> target market/customers (find a first customer to use as an example)
+</li><li> appropriate release cycles
+</li></ul>
+</dd></dl>
+<ul><li> Deliver product which customers want
+</li><li> Meet sales target
+</li></ul>
+<p><b>Responsibilities</b>
+</p>
+<ul><li> Act as a translator (translate customer desires into product requirements)
+</li><li> Ensure exec/org sponsorship of product
+</li><li> Understand the domain
+</li><li> First - can we do it? Can we sell it?
+</li><li> Own the business case
+</li></ul>
+<p><b>Activities</b>
+</p>
+<ul><li> Meet customers
+</li><li> Find a dev team lead
+</li><li> Talk/answer/listen to dev team
+</li><li> Control features included in the product
+</li><li> Take decisions about priority
+</li><li> Maintain product roadmap
+</li><li> Create customer advisory system
+</li></ul>
+<p><b>Context</b>
+</p>
+<ul><li> Implement a strategy
+</li><li> Domain experts
+</li><li> Requires [organisational] backing/support
+</li><li> Understand the domain
+</li><li> Maintain relationship with regulatory bodies
+</li></ul>
+<h5> <span class="mw-headline" id="Personal_profile"> Personal profile </span></h5>
+<p><b>Character</b>
+</p>
+<ul><li> Decisive and takes the lead
+</li><li> Having own opinion
+</li></ul>
+<dl><dd><ul><li> High threshold before losing temper
+</li><li> Diplomatic
+</li><li> Facilitator/mediator
+</li></ul>
+</dd></dl>
+<ul><li> Open-minded
+</li><li> High Committment
+</li><li> Visionary
+</li></ul>
+<p><b>Skills</b>
+</p>
+<ul><li> Communicate at various levels
+</li><li> Financial background
+</li><li> "Honest" sales skills
+</li><li> Public speaking (conferences, customer presentations, etc)
+</li><li> Understands development process/able to fit proper developmen methodology to team at hand
+</li></ul>
+<p><b>Experience</b>
+</p>
+<ul><li> Exposure to domain/domain knowledge
+</li><li> Project lifecycle experience
+</li></ul>
+<p><b>Circumstance</b>
+</p>
+<ul><li> Able to travel
+</li><li> Multicultural
+</li></ul>
+<hr />
+<h4> <span class="mw-headline" id="Group_B"> Group B  </span></h4>
+<h5> <span class="mw-headline" id="Job_description_2"> Job description </span></h5>
+<p><b>Goals</b>
+</p>
+<ul><li> Get as many students as possible onto the course
+</li></ul>
+<dl><dd><ul><li> Attractive course materials
+</li></ul>
+</dd></dl>
+<ul><li> Give students a happy experience
+</li><li> Make the most of resources available
+</li><li> Balance the books
+</li><li> Produce a successful course to last 6 years
+</li></ul>
+<p><b>Responsibilities</b>
+</p>
+<ul><li> Find out what users want/need/will pay for
+</li><li> Control of finances
+</li><li> There is a single line being followed consistently
+</li><li> Keep schedule on track
+</li><li> Keep everyone happy&nbsp;:-)
+</li><li> Manage customer experience
+</li><li> See where the product fits in the wider university provision
+</li></ul>
+<p><b>Activities</b>
+</p>
+<ul><li> Gather and analyse course feedback
+</li></ul>
+<dl><dd><ul><li> Coordinate academic content
+</li><li> Give a clear direction to the vision of the courses
+</li></ul>
+</dd></dl>
+<ul><li> Liaise between stakeholders
+</li></ul>
+<dl><dd><ul><li> Direct the production of materials
+</li><li> Market research
+</li></ul>
+</dd></dl>
+<ul><li> Develop future plans
+</li></ul>
+<dl><dd><ul><li> Manage budget for the course product
+</li></ul>
+</dd></dl>
+<p><b>Context</b>
+</p>
+<ul><li> Academic team
+</li><li> Material design/production team
+</li><li> Authority [University and statutory? DH]
+</li><li> Effective interface to customers
+</li></ul>
+<h5> <span class="mw-headline" id="Personal_profile_2"> Personal profile </span></h5>
+<p><b>Character</b>
+</p>
+<ul><li> Calm
+</li><li> Pragmatic
+</li><li> Leader
+</li><li> Authority
+</li><li> Visionary
+</li></ul>
+<p><b>Skills</b>
+</p>
+<ul><li> Diplomacy
+</li><li> Don't get bogged down in details [Perspective]
+</li><li> Budgeting
+</li><li> Person management
+</li><li> Planning
+</li><li> Marketing
+</li><li> Ability to integrate ideas
+</li></ul>
+<p><b>Experience</b>
+</p>
+<ul><li> Publishing (in broad sense)
+</li><li> Teacher
+</li><li> Writer?
+</li><li> Some experience of "Business"
+</li></ul>
+<p><b>Circumstance</b>
+</p>
+<ul><li> [none offered]
+</li></ul>
+<hr />
+<h4> <span class="mw-headline" id="Group_C"> Group C </span></h4>
+<h5> <span class="mw-headline" id="Job_description_3"> Job description </span></h5>
+<p><b>Goals</b>
+</p>
+<ul><li> Project success
+</li><li> Product success
+</li><li> Business benefit [realised]
+</li><li> Develop/deploy/operate&nbsp;:: Long-term oversight
+</li><li> Ensure product meets customer requirements
+</li><li> How to do better next time&nbsp;:: continuous improvement
+</li></ul>
+<p><b>Responsibilities</b>
+</p>
+<ul><li> Represent customer to dev team
+</li><li> Ensure project visibility
+</li><li> Uncover/capture requirements
+</li><li> Ensure project is resourced
+</li><li> Prioritising requirements
+</li><li> Quality assurance
+</li><li> Financial responsibility
+</li></ul>
+<p><b>Activities</b>
+</p>
+<ul><li> Talking to customers
+</li><li> Brainstorm scenarios
+</li><li> Run human simulation [!! DH]
+</li></ul>
+<dl><dd><ul><li> Use UI mock-ups
+</li></ul>
+</dd></dl>
+<ul><li> Develop measurements/metrics
+</li><li> Hold [organise? DH] retrospectives
+</li><li> Liaise with&nbsp;:: marketing, account mgr [sales], customer, tech lead and proj mgr
+</li><li> Workshop requirements
+</li><li> Communication
+</li><li> Play planning game with dev team
+</li><li> Prioritise requirements
+</li></ul>
+<pre>* <a href="http://www.getdissertationwriters.com" class="external free" rel="nofollow">http://www.getdissertationwriters.com</a>
+</pre>
+<p><b>Context</b>
+</p>
+<ul><li> Budget [organisational constraint]
+</li></ul>
+<dl><dd><ul><li> What is the cost if this doesn't work
+</li><li> Resource limitations
+</li></ul>
+</dd></dl>
+<ul><li> Large number of stakeholders
+</li><li> Business case
+</li><li> Multi-project environment
+</li><li> Incomplete specification
+</li><li> Changing technologies
+</li><li> Willing test "victims"
+</li></ul>
+<h5> <span class="mw-headline" id="Personal_profile_3"> Personal profile </span></h5>
+<p><b>Character</b>
+</p>
+<ul><li> Flexible
+</li><li> Credible
+</li><li> Empathic
+</li><li> Confident
+</li><li> Self-motivated
+</li><li> Monitor/evaluator
+</li><li> Facilitator
+</li><li> Passionate, committed
+</li><li> Open
+</li><li> Super-human!
+</li></ul>
+<p><b>Skills</b>
+</p>
+<ul><li> Understanding and prioritisation of requirements
+</li><li> Negotiation
+</li><li> Planning, time management, multi-tasking
+</li><li> Facilitation
+</li><li> Business awareness
+</li><li> Political awareness [clearly in the context of the business&nbsp;:-) DH]
+</li><li> Technically literate
+</li><li> Software development methodologies
+</li><li> Agile processes
+</li></ul>
+<p><b>Experience</b>
+</p>
+<ul><li> Large project management
+</li></ul>
+<dl><dd><ul><li> Software team management
+</li><li> Multiple project management
+</li></ul>
+</dd></dl>
+<ul><li> Risk analysis
+</li><li> Customer-facing role
+</li></ul>
+<dl><dd><ul><li> Domain knowledge
+</li><li> Business analysis
+</li></ul>
+</dd></dl>
+<ul><li> Organisational excellence
+</li><li> IT background (development or infrastructure)
+</li><li> Workshops
+</li><li> Sales
+</li></ul>
+<p><b>Circumstance</b>
+</p>
+<ul><li> Available
+</li><li> Willing to work for small company
+</li></ul>
+<hr />
+<h4> <span class="mw-headline" id="Group_D"> Group D </span></h4>
+<h5> <span class="mw-headline" id="Job_description_4"> Job description </span></h5>
+<p><b>Goals</b>
+</p>
+<ul><li> Value/cost [i.e. maximise value divided by cost DH]
+</li><li> One voice
+</li><li> Profitable product
+</li><li> Product flies off the shelf
+</li><li> Make money now and in future
+</li><li> Visibility to stakeholders
+</li></ul>
+<p><b>Responsibilities</b>
+</p>
+<ul><li> Inspire confidence in direction
+</li><li> Defend ("cage") project
+</li><li> Keep things moving
+</li><li> Balance past/now/future
+</li><li> Consensus
+</li><li> Feedback
+</li><li> Prioritise features
+</li><li> Know what will sell
+</li><li> Identify customers unfelt wants
+</li></ul>
+<p><b>Activities</b>
+</p>
+<ul><li> Prioritise
+</li><li> Backlog
+</li><li> Have ideas
+</li><li> Facilitate ideas
+</li><li> Sell ideas
+</li><li> Get funding for development
+</li><li> Organise regular status meetings
+</li><li> Talk to customers at all levels
+</li></ul>
+<p><b>Context</b>
+</p>
+<ul><li> The truth is out there
+</li><li> Access to sales
+</li><li> Reliability
+</li><li> Paid by results?
+</li></ul>
+<h5> <span class="mw-headline" id="Personal_profile_4"> Personal profile </span></h5>
+<p><b>Character</b>
+</p>
+<ul><li> Approachable
+</li><li> Visionary
+</li><li> Creative
+</li><li> Positive/optimist/enthusiast
+</li><li> Patient
+</li><li> Exploratory
+</li></ul>
+<p><b>Skills</b>
+</p>
+<ul><li> Organisational skills
+</li><li> Negotiation
+</li><li> Personal relationships
+</li><li> Communication
+</li><li> Knowledge of different markets
+</li><li> Deal with different/appripriate parties
+</li><li> Generalist
+</li><li> Abstraction/synthesise
+</li><li> Leaps tall buildings with a single bound
+</li></ul>
+<p><b>Experience</b>
+</p>
+<ul><li> Understanding of customer base/domain/market
+</li><li> Has done sales
+</li><li> Understands software development
+</li></ul>
+<p><b>Circumstance</b>
+</p>
+<ul><li> Not a part-time role
+</li><li> Available &gt;80% working hours
+</li><li> Can travel
+</li></ul>
+<hr />
+<p>I'm [DH] completely sold on the brainstorming <a href="http://laboratories.com.ua/laboratorii-odessy.html" class="external free" rel="nofollow">http://laboratories.com.ua/laboratorii-odessy.html</a> technique we introduced here. An aside - <a href="http://www.online-phentermine.com" class="external free" rel="nofollow">http://www.online-phentermine.com</a> there's a subtle geometric/semantic thing going on in the  choice of the four categories for the grid, and their placement - top-bottom, left-right - that merits further thought. 
+</p><p>However, on further reflection, it strikes me that we probably didn't do a great job of explaining the categorisations. We'd though of Responsibilities and Context (in the job description grid) as being pretty closely defined - responsibilities with respect to budgets, teams and artefacts, context around the position of the role in the organisation. So:
+</p>
+<pre>  goal = what the PM achieves; 
+  responsibilities = what the PM is given to achieve the goal;
+  activities = what they do to achieve it;
+  context = the structure and constraints in which they work.
+</pre>
+<p>Though some of the work ended up more focussed, there's still a tendency in some of this to envisage a kind of superhero customer-sponsor-project manager who'll do all and everything to ensure the success of a project, rather than someone who works in a larger organisational context and with an agile development team to guide and participate product development. Perhaps there's a longer session here trying to get out... Anyone else, feel free to comment!
+</p>
+<hr />
+<h4> <span class="mw-headline" id="Some_links_and_resources"> Some links and resources </span></h4>
+<ul><li> <a href="http://www.onlinecollegeessay.com" class="external free" rel="nofollow">http://www.onlinecollegeessay.com</a>
+</li><li> <a href="http://5paragraphessayhelp.com" class="external free" rel="nofollow">http://5paragraphessayhelp.com</a>
+</li></ul>
+<p>Interesting - all of these point to Product Managing as being a *much* bigger role than that of (say) the customer in XP, and bigger than I envisage a PM to be in a small-to-medium size software company.
+</p>
+<ul><li> <a href="http://www.goodexperience.com/blog/archives/000066.php" class="external free" rel="nofollow">http://www.goodexperience.com/blog/archives/000066.php</a>
+</li></ul>
+<p>A product management story from the front line
+</p>
+<ul><li> <a href="http://heynorton.typepad.com/blog/2005/06/how_to_hire_pro.html" class="external free" rel="nofollow">http://heynorton.typepad.com/blog/2005/06/how_to_hire_pro.html</a>
+</li></ul>
+<p>More advice from someone who's been there <a href="http://www.profcopy.com/|copywriting_service" class="external autonumber" rel="nofollow">[1]</a>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 58/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:2885-0!1!0!!en!2!edit=0!printable=1 and timestamp 20170708095431 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=ProductManagement">http://www.spaconference.org/mediawiki/index.php?title=ProductManagement</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=ProductManagement" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:ProductManagement&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=ProductManagement&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=ProductManagement&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=ProductManagement&amp;returntoquery=oldid%3D5312%26printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FProductManagement" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FProductManagement" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-permalink"><a href="index.php?title=ProductManagement&amp;oldid=5312" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.139 secs. --></body></html>

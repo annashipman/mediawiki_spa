@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>DesignWalkthrough - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="DesignWalkthrough",
+wgTitle="DesignWalkthrough",
+wgAction="view",
+wgArticleId=2265,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4072,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-DesignWalkthrough skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">DesignWalkthrough</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 12:51, 26 April 2009 by <a href="http://www.spaconference.org/mediawiki/index.php?title=Special:Contributions/MarinaHaase" title="Special:Contributions/MarinaHaase" class="mw-userlink">MarinaHaase</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:MarinaHaase&amp;action=edit&amp;redlink=1" class="new" title="User talk:MarinaHaase (page does not exist)">Talk</a>)</span></div>
+
+				<div id="mw-revision-nav">(diff) ← Older revision | <a href="index.php?title=DesignWalkthrough" title="DesignWalkthrough">Latest revision</a> (<a href="http://www.spaconference.org/mediawiki/index.php?title=DesignWalkthrough&amp;diff=cur&amp;oldid=4071" title="DesignWalkthrough">diff</a>) | <a href="http://www.spaconference.org/mediawiki/index.php?title=DesignWalkthrough&amp;direction=next&amp;oldid=4071" title="DesignWalkthrough">Newer revision →</a> (<a href="http://www.spaconference.org/mediawiki/index.php?title=DesignWalkthrough&amp;diff=next&amp;oldid=4071" title="DesignWalkthrough">diff</a>)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#column-one">navigation</a>, <a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#searchInput">search</a></div>
+		<!-- start content -->
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#What_is_its_central_functionality"><span class="tocnumber">2</span> <span class="toctext">What is its central functionality</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#What_does_it_help_me_do.3F"><span class="tocnumber">3</span> <span class="toctext">What does it help me do?</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#What_problem_can_it_help_me_solve.3F"><span class="tocnumber">4</span> <span class="toctext">What problem can it help me solve?</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#Why_would_the_world_be_worse_if_I_didn.27t_use_it.3F"><span class="tocnumber">5</span> <span class="toctext">Why would the world be worse if I didn't use it?</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#Why_does_it_help_solve_the_problem.3F"><span class="tocnumber">6</span> <span class="toctext">Why does it help solve the problem?</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#In_which_context_is_this_tool_useful.3F"><span class="tocnumber">7</span> <span class="toctext">In which context is this tool useful?</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#Who_could_benefit_from_using_this_tool.3F"><span class="tocnumber">8</span> <span class="toctext">Who could benefit from using this tool?</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#What_are_the_downsides_of_using_this_tool.3F"><span class="tocnumber">9</span> <span class="toctext">What are the downsides of using this tool?</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#Are_there_dangers_or_risks_involved.3F"><span class="tocnumber">10</span> <span class="toctext">Are there dangers or risks involved?</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072#Do_I_need_to_use_other_tools_in_order_to_get_the_full_benefit_from_this_tool.3F"><span class="tocnumber">11</span> <span class="toctext">Do I need to use other tools in order to get the full benefit from this tool?</span></a></li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h5> <span class="mw-headline" id="Name"> Name  </span></h5>
+<p>Design Walkthrough
+</p><p><br />
+</p>
+<h5> <span class="mw-headline" id="What_is_its_central_functionality"> What is its central functionality </span></h5>
+<p>Gather stakehlders or peers
+issue a design doc
+talk through the documentatins and answer questions/take suggestions for change
+</p>
+<h5> <span class="mw-headline" id="What_does_it_help_me_do.3F"> What does it help me do? </span></h5>
+<h5> <span class="mw-headline" id="What_problem_can_it_help_me_solve.3F"> What problem can it help me solve? </span></h5>
+<p>Spot design problems
+get buy-in to a design
+get understanding of the design by stakeholder and by me
+can get stakeholders to discuss/agree between themselves
+</p>
+<h5> <span class="mw-headline" id="Why_would_the_world_be_worse_if_I_didn.27t_use_it.3F"> Why would the world be worse if I didn't use it? </span></h5>
+<p>If I just issue docs
+a) people don't read them/understand them
+b) feedback v. piecemeal
+</p>
+<h5> <span class="mw-headline" id="Why_does_it_help_solve_the_problem.3F"> Why does it help solve the problem? </span></h5>
+<p>Talking is a medium people find easier to absorb
+People can ask questions and get them resolved quickly
+</p>
+<h5> <span class="mw-headline" id="In_which_context_is_this_tool_useful.3F">  In which context is this tool useful? </span></h5>
+<p>Talking through with 
+a) peers
+b) the users of the design
+c) the implementors of the design
+</p><p><br />
+</p>
+<h5> <span class="mw-headline" id="Who_could_benefit_from_using_this_tool.3F"> Who could benefit from using this tool? </span></h5>
+<p>Designers/Architects
+</p>
+<h5> <span class="mw-headline" id="What_are_the_downsides_of_using_this_tool.3F"> What are the downsides of using this tool? </span></h5>
+<p>Takes time and organisation
+need to take good notes of the meeting
+</p>
+<h5> <span class="mw-headline" id="Are_there_dangers_or_risks_involved.3F"> Are there dangers or risks involved? </span></h5>
+<p>If there are obvious flaws you look stupid
+Can make snap decision on design changes that may not be good
+</p>
+<h5> <span class="mw-headline" id="Do_I_need_to_use_other_tools_in_order_to_get_the_full_benefit_from_this_tool.3F"> Do I need to use other tools in order to get the full benefit from this tool? </span></h5>
+<p>Need to get written sign-off afterwards
+</p><p>Back to <a href="index.php?title=InterpersonalTools" title="InterpersonalTools">InterpersonalTools</a>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 42/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=DesignWalkthrough">http://www.spaconference.org/mediawiki/index.php?title=DesignWalkthrough</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=DesignWalkthrough" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:DesignWalkthrough&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="http://www.spaconference.org/mediawiki/index.php?title=DesignWalkthrough&amp;action=edit&amp;oldid=4071" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=DesignWalkthrough&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=DesignWalkthrough&amp;returntoquery=direction%3Dprev%26oldid%3D4072" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FDesignWalkthrough" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FDesignWalkthrough" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="http://www.spaconference.org/mediawiki/index.php?title=DesignWalkthrough&amp;direction=prev&amp;oldid=4072&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="http://www.spaconference.org/mediawiki/index.php?title=DesignWalkthrough&amp;oldid=4071" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.195 secs. --></body></html>

@@ -1,0 +1,497 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>MetaphorsWeProgramBy - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="MetaphorsWeProgramBy",
+wgTitle="MetaphorsWeProgramBy",
+wgAction="view",
+wgArticleId=2675,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4892,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-MetaphorsWeProgramBy skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">MetaphorsWeProgramBy</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 11:54, 2 June 2011 by <a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="index.php?title=MetaphorsWeProgramBy&amp;diff=prev&amp;oldid=4892" title="MetaphorsWeProgramBy">diff</a>) <a href="index.php?title=MetaphorsWeProgramBy&amp;direction=prev&amp;oldid=4892" title="MetaphorsWeProgramBy">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892&amp;printable=yes#column-one">navigation</a>, <a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892&amp;printable=yes#searchInput">search</a></div>
+		<!-- start content -->
+<p>In this session, we explored the use of metaphor in software development and related practices. A longer description of the intent and process used can be found on the session description page <a href="http://www.spaconference.org/spa2007/sessions/session15.html" class="external text" rel="nofollow">1</a>. The contents and process of the workshop are founded on a focus group run at <a href="index.php?title=EuroPLoP" title="EuroPLoP">EuroPLoP</a> 2006 <a href="http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/MetaphorInSoftwareDevelopment.pdf" class="external text" rel="nofollow">2</a>.
+</p><p><a href="./index.php?title=File:MetaphorsWeProgramBy2.jpg" class="image"><img alt="MetaphorsWeProgramBy2.jpg" src="images/1/16/MetaphorsWeProgramBy2.jpg" width="475" height="519" /></a>
+</p><p>Status: This page currently (June 2007) contains about all of the raw outputs of the session.
+</p>
+<hr />
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892&amp;printable=yes#Sheets_from_groups:"><span class="tocnumber">1</span> <span class="toctext">Sheets from groups:</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892&amp;printable=yes#Cards_from_groups:"><span class="tocnumber">2</span> <span class="toctext">Cards from groups:</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892&amp;printable=yes#Concluding_thoughts_from_groups_.28three_or_so_words.29"><span class="tocnumber">3</span> <span class="toctext">Concluding thoughts from groups (three or so words)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892&amp;printable=yes#Other_random_notes"><span class="tocnumber">4</span> <span class="toctext">Other random notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892&amp;printable=yes#Participants"><span class="tocnumber">5</span> <span class="toctext">Participants</span></a></li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h5> <span class="mw-headline" id="Sheets_from_groups:"> Sheets from groups: </span></h5>
+<hr />
+<p>Software project as a ship:
+</p>
+<ul><li> "Your oil tanker of a waterfall project cannot change course easily"
+</li><li> "your coracle of an agile project is spinning around getting nowhere"
+</li></ul>
+<p>Toilet cleaner &lt;-&gt; sanitation engineer
+</p>
+<hr />
+<p>A metaphor works when it supports my argument at the expense of yours
+</p><p>A metaphor stops working when it becomes a job title
+</p><p>A metaphor doesn't work when it locks you in and limits your thinking
+</p>
+<hr />
+<p>Metaphor		context &amp; purpose - focus -
+</p><p>Orchestra		pace, discipline, rhythm
+</p><p>Antartic		hard project, heroic connotations, team must be right and commited
+</p><p>Film production		collaboration, driven by shared vision (storyboard), many roles
+</p>
+<hr />
+<p>Graph of metaphor purpose vs audience
+</p><p><a href="./index.php?title=File:MetaphorsWeProgramBy1.gif" class="image"><img alt="MetaphorsWeProgramBy1.gif" src="images/e/ec/MetaphorsWeProgramBy1.gif" width="960" height="720" /></a>
+</p>
+<hr />
+<h5> <span class="mw-headline" id="Cards_from_groups:"> Cards from groups: </span></h5>
+<hr />
+<p>Software development as film production
+</p>
+<pre>   Pink cards
+</pre>
+<p>	Sequel (version 2)
+	Costume (user interfaces)
+	Supporting actors (dev team, infrastructure team)
+	Movie star (prima donna, essential but need careful management)
+	Visual effects (components, performance)
+	Storyboard (use case, scenario, model)
+	Pre-screen trial viewing (beta)
+	Release date/premier
+	Producer (stakeholder, sponsor)
+	Film editor (Release/?? Processes)
+	Director (technical lead)
+</p>
+<pre>   Notes
+       This is expounded by Allan Cooper in 'The Inmates Are Running the Asylum"
+       or "About Face" (can't remember which one. This seems to fit well with the
+       rhythm of the software development cycle but is not widely used.
+</pre>
+<p>Software team as antartic explorers
+</p>
+<pre>   Pink cards
+</pre>
+<p>	Provisions (specialised, must be carried)
+	Icebergs on the way (Hard to even get to the start)
+	On your own (Guerilla, skunkworks, SWAT)
+	Specialised equipment: crampons, sledges
+	Long periods of darkness (!) (changing requirements)
+	South pole vs south magnetic pole (difficult navigation, unclear goals)
+	Self preservation (cost of) (can't worry about others)
+	Poor visibility (hard to see where you are, difficult to plan)
+	Lack of women
+	Strong leader essential (or no progress &amp; freeze to death)
+	Difficult terrain/environment (easy to get lost, high cost of errors)
+	Eat huskies
+	Small team size (can't do logistics for large team)
+	Reliability of equipment (vs huskies)
+	Physically fit (must be experienced, high failure rate for&nbsp;???)
+</p><p>Software teams as an orchestra (take 1)
+</p>
+<pre>   Pink cards
+</pre>
+<p>	Conductor (project manager)
+	Players - specialists (SQL, Java guy, <a href="./index.php?title=User:JavaScript" title="User:JavaScript">JavaScript</a> guy, opers??)
+	Audience (customer)
+	Soloist(s) (consultant)
+	Staves and notes (notation)
+	Arrangement (score for a performance)
+	Musical score (expressed in notation)
+	Critics/reviewer (auditors/regulators)
+	Performance hall (makes the money out of the performance)
+	Performance (execution)
+	Lead violinist (chief programmer)
+</p><p>Software teams as orchestras (take 2)
+</p>
+<pre>   Blue/green cards
+       Specialization (some loud, some soft, some high, some low)
+       Anonimity (badly paid)
+       Players work their way up the 'desks' in their section, promoted
+          to front desk eventually
+       Concert hall (acoustics)
+       Require large amounts of arts funding because not profitable
+       Requires mathematical skill - counting
+       Appropriate tools well-maintained
+       Tuning up before a performance
+       Multi-skilled percussionists can play many instruments
+       Team organized into sections in which everyone has the same speciality
+       Most players have a very limited scope for improvisation and
+          creative input
+       Frequent practise for less frequent, high-pressure (delivery)
+          performance
+       Playing out of tune
+       "Soloist" who "monopolises" the concert
+       The "users" have to remain silent until the end of the performance
+       Aiming for perfection
+       Conductor (who gives the illusion of being in charge)
+       Continual practice of basic skills
+   Pink cards
+       Orchestras have skilled players - software developers are
+           often incompetent
+       Is the performance the software product or the development process?
+</pre>
+<p>Software teams as orchestras (take 3)
+</p>
+<pre>   Blue/green cards
+       The whole is greater than the sum of the parts, emergent behaviour
+       Everyone owns their instrument
+       Co-location
+       Travel
+       Tickets
+       Conductor
+       Working in a different place every day
+       Audience
+       Individual practice
+       Rehersal
+       Score/music
+       Ranking, e.g. 1st violin
+       Mix of sitting and standing for work
+       Moving instruments (in vans or on planes)
+       Concert hall
+       Manager
+       Specialisms
+       Baton
+       Different lengths of involvement (in a concert or for a run of concerts)
+       Tuning
+       Rehersal space
+       Temprament
+       Artistic
+       Programme
+       Range/variety of instruments
+       Set layout
+       Dress code
+       Interaction
+   Pink cards
+</pre>
+<p><br />
+Software system as a ship
+</p>
+<pre>   Blue/green cards
+       Sailors (developers) never get sea sick no matter how rough it is
+       Users as passengers - can get (sea) sick of the system
+       Heavy loads but slow
+       Takes a very long time to stop or change direction
+</pre>
+<dl><dd><dl><dd><ol><li>0 ft. wave (bad timing)
+</li></ol>
+</dd></dl>
+</dd></dl>
+<pre>       Different kinds of ships/boats - tanker, speed boat, passenger liner,
+          custom built or off-the-shelf
+       Captain in charge of everyone in the ship
+       Small problems can be fixed at sea - big problems require repairs
+           at port ... or you sink
+       Life jackets
+       Plotting course
+       Work to a schedule, weather disrupts
+       Distress signals S.O.S
+       Ships use 'pilots' to get started or to manouver in difficult areas
+       Regular preventative maintenance
+   Pink cards
+       Sinking is usually permanent
+</pre>
+<p>Software development as politics
+</p>
+<pre>   Blue/green cards
+       Prime minister has responsibility (&amp; power?)
+       Spin doctors manipulate reporting of what is going on
+       Complete changes of direction following elections
+       Dictatorship - socialist planning and control vs
+           anarchy - little control over the process
+       Select committees with focused responsibilities and expertise
+       Checks and balances - executive, legislative, judiciary
+       Cabinet - each in charge of a ministry
+       Competing political systems
+       Law making
+       Prime minister's question time
+       Budget cycle departments
+       Back benchers
+       Whips - tell people what to do - what opinion to have
+           (enterprise architects)
+       Scandal, public eye, media
+   Pink cards
+       Parliament seldom refactors the laws
+</pre>
+<p>Software project as a journey
+</p>
+<pre>   Blue/green cards
+       Planning
+       Tourism vs work (working on project fun or a chore)
+       Purpose
+       Velocity
+       Destination (completed project)
+       bookings/tickets (things to organise before start of project)
+       connections
+       synchronisation (project management: a number of tasks being carefully synchronised)
+       timetables (project plan)
+       movement
+       mode of travel
+       starting point (requirements)
+       refreshments
+       cost
+       companions (project team)
+       strangers
+       discovery (the unexpected)
+       accommodation (office space)
+   Pink cards
+       Good journeys
+       bad journeys
+</pre>
+<p>Software development as gardening
+</p>
+<pre>   Green cards
+       Nurturing (mentoring and coaching)
+       Silage
+       Compost (turning debris into something useful - "leftovers" from one project used
+           elsewhere, e.g. code/tools/ideas)
+       Moving plants to improve them
+       Organic (grow the team in-situ)
+       Staking and tying
+       Journal (software documentation)
+       Irrigation (preparing the garden or environment for gardening)
+       Tending (team management, (code) review)
+   Pink cards
+       Gardening can be considered a chore
+       Gardens are only suitable (thrive in) some environments
+</pre>
+<p>Software development as gardening (take 2)
+</p>
+<pre>   Green cards
+       Weeding (remove bad practices, remove bad people?)
+       Feeding (on the job training, paying/rewarding staff)
+       Greenhouses/cloche (nurturing talent, hot-housing talent, speeding up development by
+           improving the environment)
+       Harvesting and picking (outputs)
+       Propagating&nbsp;%2b sewing (introduce new people, introduce new ideas)
+       Lawn mowing (straightforward, easy stuff)
+       Designing
+       Growing (software developing from beginning to end, project lifecycle)
+       Killing plants (stifling ideas/innovation, bad code/broken build/failed test)
+       Pruning (refactoring code, ...top heavy teams to encourage productivity / new growth)
+   Pink cards
+       Does this have a place?
+       Is the garden the system or the team?
+</pre>
+<p>Other thoughts
+</p>
+<pre>   Software development as a cavalry charge
+   Bad project as a train wreck
+   Bad project as a death march
+   Software development as civil engineering x 2
+   Software development as film production
+   Classes and objects as animals
+   Software development team as a sports team, e.g. football x 3
+   Program as a building
+   Migration: biplane -&gt; 747
+   Operating systems as onions
+   Stacks/layering
+   Stacks/queues
+   Software development as architecture/building
+   Software development as archaeology
+   Execution environment as a platform
+   Software as a culture
+   Requirements as mutual education (AL: I like this one)
+   Software as a deliverable
+   Software as a piece of music or poetry
+   Software as art
+   Software dvelopment toolbox
+   Web sites as locations
+   Software evolution
+   Software as an aeroplane
+   Software development as mining
+   Software development as authoring
+   Software education
+   Software as a terrorist network (!)
+   Computer virus/worms/vaccine
+</pre>
+<hr />
+<h5> <span class="mw-headline" id="Concluding_thoughts_from_groups_.28three_or_so_words.29"> Concluding thoughts from groups (three or so words) </span></h5>
+<ul><li> Useful with pitfalls
+</li><li> Powerful and dangerous
+</li><li> Useful to communicate complex ideas
+</li><li> Difficult to perfect
+</li><li> Tool for thinking
+</li><li> Illuminating misleading
+</li><li> Fun and thought provoking
+</li><li> Though provoking - so what
+</li><li> Often needs explaining
+</li><li> Bear in mind
+</li><li> Use more carefully
+</li><li> Hard to avoid
+</li></ul>
+<hr />
+<h5> <span class="mw-headline" id="Other_random_notes"> Other random notes </span></h5>
+<p>Stale metaphor - bootstrap, OK to break down
+</p><p>3 stories at different levels - build round this
+</p>
+<hr />
+<h5> <span class="mw-headline" id="Participants"> Participants </span></h5>
+<ul><li> <a href="./index.php?title=User:JaneChandler" title="User:JaneChandler">JaneChandler</a>
+</li><li> <a href="./index.php?title=User:DaveDeNaeyer" title="User:DaveDeNaeyer">DaveDeNaeyer</a>
+</li><li> <a href="./index.php?title=User:AshleyMcNeile" title="User:AshleyMcNeile">AshleyMcNeile</a>
+</li><li> <a href="./index.php?title=User:BruceAnderson" title="User:BruceAnderson">BruceAnderson</a>
+</li><li> <a href="./index.php?title=User:DaveThomas" title="User:DaveThomas">DaveThomas</a>
+</li><li> <a href="./index.php?title=User:DanHaywood" title="User:DanHaywood">DanHaywood</a>
+</li><li> <a href="./index.php?title=User:GiovanniAsproni" title="User:GiovanniAsproni">GiovanniAsproni</a>
+</li><li> <a href="./index.php?title=User:NatPryce" title="User:NatPryce">NatPryce</a>
+</li><li> <a href="http://www.spaconference.org/mediawiki/index.php?title=DarrenBishop&amp;action=edit&amp;redlink=1" class="new" title="DarrenBishop (page does not exist)">DarrenBishop</a>
+</li><li> <a href="./index.php?title=User:YvesHanoulle" title="User:YvesHanoulle">YvesHanoulle</a>
+</li><li> <a href="./index.php?title=User:PeterSumner" title="User:PeterSumner">PeterSumner</a>
+</li><li> <a href="./index.php?title=User:KarelRiha" title="User:KarelRiha">KarelRiha</a>
+</li><li> <a href="./index.php?title=User:DavidPeterson" title="User:DavidPeterson">DavidPeterson</a>
+</li></ul>
+<hr />
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 19/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:2675-0!1!0!!en!2!edit=0!printable=1 and timestamp 20170708095244 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=MetaphorsWeProgramBy">http://www.spaconference.org/mediawiki/index.php?title=MetaphorsWeProgramBy</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=MetaphorsWeProgramBy" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:MetaphorsWeProgramBy&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=MetaphorsWeProgramBy&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=MetaphorsWeProgramBy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=MetaphorsWeProgramBy&amp;returntoquery=oldid%3D4892%26printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FMetaphorsWeProgramBy" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FMetaphorsWeProgramBy" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-permalink"><a href="index.php?title=MetaphorsWeProgramBy&amp;oldid=4892" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.159 secs. --></body></html>

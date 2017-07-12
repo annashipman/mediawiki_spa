@@ -1,0 +1,11 @@
+[Process]
+Type=Edit file
+Engine=MediaWiki
+Script=http://www.spaconference.org/mediawiki/index.php
+Server=http://www.spaconference.org
+Path=/mediawiki
+Special namespace=Special
+
+[File]
+Extension=gif
+URL=http://www.spaconference.org/mediawiki/images/0/0a/Mugmikehill.gif

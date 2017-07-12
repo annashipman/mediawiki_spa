@@ -1,0 +1,311 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>WritingAndReviewingTechnicalDocuments - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="WritingAndReviewingTechnicalDocuments",
+wgTitle="WritingAndReviewingTechnicalDocuments",
+wgAction="view",
+wgArticleId=3169,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5982,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-WritingAndReviewingTechnicalDocuments skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">WritingAndReviewingTechnicalDocuments</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 11:57, 2 June 2011 by <a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;diff=prev&amp;oldid=5982" title="WritingAndReviewingTechnicalDocuments">diff</a>) <a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;direction=prev&amp;oldid=5982" title="WritingAndReviewingTechnicalDocuments">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#column-one">navigation</a>, <a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#searchInput">search</a></div>
+		<!-- start content -->
+<p>This session was run by Andy Longshaw and Nick Rosanski on Monday morning.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Document_review"><span class="tocnumber">1</span> <span class="toctext">Document review</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Group_1"><span class="tocnumber">1.1</span> <span class="toctext">Group 1</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Group_2"><span class="tocnumber">1.2</span> <span class="toctext">Group 2</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Group_3"><span class="tocnumber">1.3</span> <span class="toctext">Group 3</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Selling_Documents"><span class="tocnumber">2</span> <span class="toctext">Selling Documents</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Improvements"><span class="tocnumber">3</span> <span class="toctext">Improvements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Discuss_diagrams"><span class="tocnumber">3.1</span> <span class="toctext">Discuss diagrams</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982&amp;printable=yes#Examine_Formats"><span class="tocnumber">3.2</span> <span class="toctext">Examine Formats</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h4> <span class="mw-headline" id="Document_review"> Document review </span></h4>
+<p>We asked the groups to review the Jerusalem document (<a href="./index.php?title=File:WritingAndReviewingTechnicalDocuments1.doc" title="File:WritingAndReviewingTechnicalDocuments1.doc">File:WritingAndReviewingTechnicalDocuments1.doc</a>) and this is what they came up with.
+</p>
+<h5> <span class="mw-headline" id="Group_1"> Group 1 </span></h5>
+<pre>  Goal and Audience
+</pre>
+<ul><li> Unclear
+</li><li> We are reviewing under the assumption that
+<ul><li> Purpose = architectural proposal
+</li><li> Audience = Peer architects
+</li><li> (reviewers should assume a role)
+</li></ul>
+</li><li> Recommend produce other docs for other groups
+<ul><li> E.g. business stakeholders
+</li><li> (Reviewers should provide specific examples)
+</li></ul>
+</li></ul>
+<pre>  Introduction should explain context clearly
+</pre>
+<ul><li> What we replace and why
+</li><li> Constraints on project
+</li><li> E.g. state perf problems not marketing stuff!
+</li></ul>
+<pre>  Near top
+</pre>
+<ul><li> Explain "RT" &amp; "Jerusalem" &amp; "Mothership" &amp; "USS Enterprise"
+</li><li> Explain what's different to previous systems
+</li></ul>
+<pre>  References
+  Restructure
+</pre>
+<ul><li><ul><li> Start with diagram 2
+</li><li> Label diagram
+</li><li> Explain parts of diagram
+<ul><li> Services table
+</li></ul>
+</li><li> (Useful pattern to restructure text around diagrams)
+</li></ul>
+</li><li> Focus and inconsistent level
+<ul><li> Remove "Users" section and 2nd part of "Data".
+</li></ul>
+</li><li> UI diagram&nbsp;%2b explanation
+<ul><li> Include relationships
+</li><li> Split diagram?
+</li></ul>
+</li></ul>
+<pre>  Technical objections
+</pre>
+<ul><li> We don't bellieve this works!
+</li></ul>
+<pre>  Structure and consistency of diagrams
+</pre>
+<ul><li> Remove "silverlight" on diagram
+</li><li> Separate business objects from UI
+</li><li> Add proper description
+</li><li> (consistency of level &amp; topic important both in diagrams and text)
+</li></ul>
+<h5> <span class="mw-headline" id="Group_2"> Group 2 </span></h5>
+<ul><li> Business case unclear
+</li><li> Audience too broad
+</li><li> More sales pitch than blueprint
+</li><li> Undefined abbreviations - too much jargon
+</li><li> Too many for sign-off and review - take too long
+</li><li> Document history suspicious: why not version 1? Vague/non-specific mods
+</li><li> Assumed audience knowledge
+</li><li> Implementation date inconsistent with doc date (2007/2008)
+</li><li> Colloquialism - "Mothership" - jargon
+</li><li> Overview could have "marketecture" diagram
+</li><li> Inconsistnet formatting style and diagrams
+</li><li> Disorganized
+</li><li> Mismatch between text and diagram
+</li><li> Confused arch - card swipe used - why? - authentication *and* logon?
+</li><li> Inappropriate detail (too little/too much)
+</li><li> Unclear how technology supports arch
+</li><li> Incomplete (e.g. list of users)
+</li><li> How does system address needs of users?
+</li><li> Symbols unclear
+</li></ul>
+<h5> <span class="mw-headline" id="Group_3"> Group 3 </span></h5>
+<ul><li> Who for?
+</li><li> No purpose
+</li><li> Full of How
+</li><li> How is inconsistent
+</li><li> Refactor
+<ul><li> Objective
+</li><li> Structure
+</li><li> Match to draft
+</li></ul>
+</li><li> Good for author
+</li><li> Not convincing
+</li></ul>
+<p>Some of our own thoughts on this document are included in an annotated version <a href="./index.php?title=File:WritingAndReviewingTechnicalDocuments2.doc" title="File:WritingAndReviewingTechnicalDocuments2.doc">File:WritingAndReviewingTechnicalDocuments2.doc</a>
+</p>
+<h4> <span class="mw-headline" id="Selling_Documents"> Selling Documents </span></h4>
+<ul><li> Are all documents selling documents?
+</li><li> All have selling aspects to some extent
+</li><li> Writing documents that are timeless is really hard
+</li><li> Important to get the right style
+<ul><li> Write all documents so "your mother" could understand them
+</li><li> Tech people could get impatient with this
+</li><li> Use Powerpoint for this style of document?
+</li></ul>
+</li><li> Replay back to people what we think they think
+</li><li> Bring in tech authoring skills
+</li><li> Change process is important
+</li><li> Benefits/costs/risks
+<ul><li> Mitigate risks&nbsp;%2b illustrate benefits
+</li></ul>
+</li><li> Business touchpoints, e.g. interface, business process
+</li><li> How important is a demo/prototype?
+<ul><li> Managing expectations
+</li><li> Prototype&nbsp;!= system
+</li><li> Key selling points/mitigations
+</li><li> Use a different technology to build prototype?
+</li></ul>
+</li></ul>
+<h4> <span class="mw-headline" id="Improvements">  Improvements </span></h4>
+<h5> <span class="mw-headline" id="Discuss_diagrams"> Discuss diagrams </span></h5>
+<ul><li> More than one diagram
+<ul><li> Complexity
+</li><li> Levels
+</li><li> Audiences
+</li></ul>
+</li><li> Consistent
+</li></ul>
+<h5> <span class="mw-headline" id="Examine_Formats"> Examine Formats </span></h5>
+<ul><li> MHT
+</li><li> Google Docs
+</li><li> <a href="http://www.spaconference.org/mediawiki/index.php?title=DocBook&amp;action=edit&amp;redlink=1" class="new" title="DocBook (page does not exist)">DocBook</a>&nbsp;%2b Subversion
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 31/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:3169-0!1!0!!en!2!edit=0!printable=1 and timestamp 20170708095008 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=WritingAndReviewingTechnicalDocuments">http://www.spaconference.org/mediawiki/index.php?title=WritingAndReviewingTechnicalDocuments</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=WritingAndReviewingTechnicalDocuments" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:WritingAndReviewingTechnicalDocuments&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=WritingAndReviewingTechnicalDocuments&amp;returntoquery=oldid%3D5982%26printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FWritingAndReviewingTechnicalDocuments" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FWritingAndReviewingTechnicalDocuments" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-permalink"><a href="index.php?title=WritingAndReviewingTechnicalDocuments&amp;oldid=5982" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.136 secs. --></body></html>

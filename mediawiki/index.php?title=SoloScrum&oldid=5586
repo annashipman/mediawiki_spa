@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>SoloScrum - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="SoloScrum",
+wgTitle="SoloScrum",
+wgAction="view",
+wgArticleId=2971,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5586,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-SoloScrum skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">SoloScrum</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 11:56, 2 June 2011 by <a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="index.php?title=SoloScrum&amp;diff=prev&amp;oldid=5586" title="SoloScrum">diff</a>) <a href="index.php?title=SoloScrum&amp;direction=prev&amp;oldid=5586" title="SoloScrum">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=SoloScrum&amp;oldid=5586#column-one">navigation</a>, <a href="index.php?title=SoloScrum&amp;oldid=5586#searchInput">search</a></div>
+		<!-- start content -->
+<p>Solo Scrum Workshop Materials
+</p><p>At SPA 2009 I led a workshop on solo scrum. The abstract was as follows:
+</p><p>"Whether we're throwing together a side project, starting our own open source offering or doing smaller consulting projects, most of us spend at least some time working on projects where we are the only programmer.
+</p><p>XP engineering practices and Lean and Scrum methodologies have been successful at improving the performance of programming teams, but can we re-purpose elements of these approaches for the solo developer?"
+</p><p>Structure
+Started by introducing the premise: "Lean, agile, scrum, and XP engineering practices can add value to projects where you *are* the team"
+The question: "how?!"
+And the objectives: "Share/develop specific adaptions of agile for the developer working on their own
+techniques, practices, attitudes, technologies""
+</p><p>Sample user stories
+1. As a full time developer I want to add some patches to my favorite OSS project in the evenings so I can improve the project and maybe get a better job!
+2. As a solo consultant I want to build web apps for my non-technical clients
+3. As a "work at home" contractor I want to manage the consulting I do for multiple clients
+4. "Maverick" (only agile/xp dev in bigger team/company)
+8 people in workshop, 5 identified with #1, 3 identified with #3.
+</p><p>We then brainstormed problems in those use cases. The problems listed were: 
+1. As a full time developer I want to add some patches to my favorite OSS project in the evenings so I can improve the project and maybe get a better job!
+- Time management
+- Too tired to work
+- Working long hours
+- No communication
+- No-one to delegate to
+- No support setting up CO, source control, wiki, etc
+- Issues with TDD
+- No pair leading to poorer code quality, poorer productivity and lack of motivation
+</p><p>3. As a "work at home" contractor I want to manage the consulting I do for multiple clients
+- COnflicts of interests (yours and theirs)
+- Prioritization
+- Context switching
+- Remote from customer (communication and isolation)
+- Separating work and home
+- Loss of immediacy (team)
+- Adaptability required (e.g. lack of network support)
+</p><p>From there, each person wrote down the problems they might be interested in investigating further on a large card. The problems that got that far were:
+- Time management
+- Noone to solve your problems
+- Prioritization
+- Have to provide own infrastructure
+- Nobody challenges my perspective &amp; decisions when I work on my own
+- Context switching
+</p><p>People then voted using colored stickies on the problems they were most interested in investigating. The following three most popular problems were investigated:
+1. Nobody challenges my perspectives and decisions when I'm on my own - 2 people
+2. Time manageement - 2 people 
+3. Context Switching - 4 people
+</p><p>Proposed Solutions:
+</p><p>Problem: Nobody challenges perspectives
+Be publicly vocal - keep a blog, get involved in discussions around the topics as much as you can as may not want to be open, so may limit ability to chat about it with people you don't know
+What's Good? Attracts debate, but you might have to do other things to get people interested in what you are doing
+May just get bashing - not positive
+Alternatives are if you're working on something proprietary, get involved with OSS, communities. etc with networking and may get a partner from there.
+</p><p>Don't do it alone! Alternatives to that are reuse - design patterns to avoid common design traps. Also can look to see how others have done that - e.g. OSS projects - difficulty is aligning what you're doing with the problems
+</p><p>Problem: Context switching when working alone
+Some deep problems take a long time and require focus, but how balance that with the everyday stuff you need to knock out
+</p><p>Distinguish between deep and shallow projects - break deep projects into milestones - even if you don;t know what the next milestone will be. Allows time-slicing more easily of projects. Also a bit of breathing space so not a vicious circle.  
+</p><p>Context spike - a spike of papers for each context - could be a virtual spike - e.g. a wiki page. Quickly refreshes your memory and might act as a useful task history. Bad because catching enough detail takes too long, and can take too long to catch up. Also how store, etc . . .  (Things is a GTD style solution on a mac that allows you to do this kind of stuff - also iPhone synchronization) Maybe do all of the work in second life&nbsp;:-) 
+</p><p>Pairing - Maybe out of bounds. Good stuff is constant feedback and questioning. They implicitly act as a context to some extent. But need proximity. Needn't be physical - could pair over IM, etc.  But not sure who to pair with as nobody to share with
+</p><p>Alternatives, Online forums for sharing with people in same area, keep an engineering log book every day. Maybe physical cues like hats for different jobs!
+</p><p>On a deep problem, even phone call can lose 25 minutes. Like to do a wall planner chart of the day (even if just in head) where can put solid blocks of time to work on important deeper tasks. If working at home can switch everything off. Avoid other sources of interruption. But also need to firmly time box do don't over run. Sometimes have to stop at wrong point or need to overrun. Bad things: very difficult to do, lots of distractions, meals to prepare, having to do everything yourself
+</p><p>Time management
+</p><p>Never plan formally, maybe write a list or have it in your head, get distracted and forget. 
+</p><p>Need to do a formal plan, know what all the tasks are. Nobody to manage the time plan, how do you make it almost automatic to do that kind of stuff.  Auto update plan. Fail to plan, plan to fail. Really need to plan. 
+IBM rational have jazz platform - "team concert"
+Trac/mylyn
+</p><p>Other technique - time boxing for time management. Take stock. Is it complete enough. Are the priority tasks finished? Can you deliver acceptably to the client? Think should have completed task. If nowhere near it, maybe need some help. Maybe not time-boxed, because if don't deliver, don't get paid, then need outside help. Cheaper than failing to deliver. Also, if working on lots of stuff, should branch more in source control.
+</p><p>Also Suggested:
+Conference Pairing - pair with people at conferences - doesn't help with projects that may be proprietary, but *does* help with skill development to become a better programmer.
+Get networking - One of biggest benefits of team is a ready built network. Get to know great devs you can bounce problems off over IM.
+Planning - Time management and planning is key. Also starting to play with pomodoro technique for "short sprints"
+Efficiency - Very easy to get overwhelmed and because no PM's, need to have lightweight tracking and management tools so don't waste too much time documenting instead of doing.
+</p><p>A google group has been set up for anyone interested in continuing the conversation and all of the attendees who were interested were invited. Please feel free to join us at <a href="http://groups.google.com/group/solo-scrum" class="external free" rel="nofollow">http://groups.google.com/group/solo-scrum</a>
+</p><p>Thanks everyone for the great input!
+Peter
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 1/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:2971-0!1!0!!en!2!edit=0 and timestamp 20170708094026 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=SoloScrum">http://www.spaconference.org/mediawiki/index.php?title=SoloScrum</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=SoloScrum" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:SoloScrum&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=SoloScrum&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=SoloScrum&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=SoloScrum&amp;returntoquery=oldid%3D5586" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FSoloScrum" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FSoloScrum" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="index.php?title=SoloScrum&amp;oldid=5586&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="index.php?title=SoloScrum&amp;oldid=5586" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.162 secs. --></body></html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>ReflectionsOnSoftwarePracticeAdvancement - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.spaconference.org/mediawiki/skins/common/diff.css?270" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="ReflectionsOnSoftwarePracticeAdvancement",
+wgTitle="ReflectionsOnSoftwarePracticeAdvancement",
+wgAction="view",
+wgArticleId=2912,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5366,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script type="text/javascript" src="http://www.spaconference.org/mediawiki/skins/common/diff.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-ReflectionsOnSoftwarePracticeAdvancement skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">ReflectionsOnSoftwarePracticeAdvancement</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">(Difference between revisions)</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;diff=prev&amp;oldid=5366#column-one">navigation</a>, <a href="index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;diff=prev&amp;oldid=5366#searchInput">search</a></div>
+		<!-- start content -->
+<table class='diff'>
+		<tr valign='top'>
+		<td colspan='1' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href='http://www.spaconference.org/mediawiki/index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;oldid=5365'>Revision as of 12:51, 7 May 2007</a> (<a href='http://www.spaconference.org/mediawiki/index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;action=edit&amp;oldid=5365'>view source</a>)</strong></div><div id="mw-diff-otitle2"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:Contributions/Racheldavies" title="Special:Contributions/Racheldavies" class="mw-userlink">Racheldavies</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:Racheldavies&amp;action=edit&amp;redlink=1" class="new" title="User talk:Racheldavies (page does not exist)">Talk</a>)</span></div><div id="mw-diff-otitle3"></div><div id="mw-diff-otitle4"><a href="http://www.spaconference.org/mediawiki/index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;diff=prev&amp;oldid=5365" title="ReflectionsOnSoftwarePracticeAdvancement" id="differences-prevlink">← Older edit</a></div></td>
+		<td colspan='1' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href='index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;oldid=5366'>Latest revision as of 11:56, 2 June 2011</a> (<a href='index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;action=edit'>view source</a>)</strong></div><div id="mw-diff-ntitle2"><a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span> </div><div id="mw-diff-ntitle3"><abbr class="minor" title="This is a minor edit">m</abbr> <span class="comment">(1 revision)</span></div><div id="mw-diff-ntitle4">&nbsp;</div></td>
+		</tr></table><hr /><h2>Latest revision as of 11:56, 2 June 2011</h2>
+<p>In the closing plenary we gathered post-it notes listing lessons learned and insights gained at the conference:
+</p>
+<ul><li> There are more ghosts in Cambridge than expected!
+</li><li> I can improve my learning by increasing my toolbox.
+</li><li> Dealing with non-functional requirements is hard - but doubly so on agile projects. You need to use your professional experience to stand up to the customer and make clear what they cost (and the risks).
+</li><li> Make use of the 'four phases' for running our larger products.
+</li><li> More people are interested in code generation than I thought
+</li><li> Consider developing a Perl compiler for Ruby on Rails! (if you work at the beeb)
+</li><li> Find out what motivates you and use that to design your job.
+</li><li> Design by Contract is an interesting way to think about testing.
+</li><li> The big gap between the books and reality - the missing manual.
+</li><li> Everything moves so fast - you have to keep learning!
+</li><li> 10 things I knew but forgot have come back to the front of mind.
+</li><li> Very glad we use Scrum not XP!
+</li><li> I should 'mock' more objects to reduce the runtimes of my test suite
+</li><li> How to handle external influences on an agile project team.
+</li><li> "A Good Read" showed how much stuff is out there that could help if only we could find the time to read it.
+</li><li> JMock
+</li><li> Using Scrum for non-deliverable tasks.
+</li><li> I am rubish at croquet.
+</li><li> "Creativity in Practice" -&gt; activities you can do to encourage creativity.
+</li><li> "Creativity in Practice" session was very good. It promoted 'out of the box' thinking.
+</li><li> Revisit TDD with JMock.
+</li><li> "The Scoping Game" session was excellent - it put product management trade-offs 'in my face'.
+</li><li> PHP has problems but it does the job.
+</li><li> There is no common understanding of how to deal with NFR on Agile Projects.
+</li><li> Java headaches growing.
+</li><li> What's it worth to keep a system running?
+</li><li> There are conflicts between testing and encapsulation.
+</li><li> Brainstorming technique
+</li><li> Rose champagne is not pink
+</li><li> Not all vintage champagne tastes good.
+</li><li> Learned that ENVY was an OTI product for Smalltalk.
+</li><li> Learned a lot about how to lead sessions.
+</li><li> Getting to know a lot of interesting people.
+</li><li> Getting a lot of new ideas to more detail.
+</li><li> The problems with agile (management, architecture, failures) are coming out. Now it's "okay to talk about it".
+</li><li> Vista API's incompatible with .NET
+</li><li> The basics behind Design by Contract.
+</li><li> Simple vs Bottomline of Life Expectancy
+</li><li> Meeting Dave Thomas
+</li><li> Eclipse Exploration
+</li><li> Tools for exploring code with Eclipse.
+</li><li> Ideas to improve my workshop.
+</li><li> Test oracle.
+</li><li> Erlang
+</li><li> Parallel state machines might work.
+</li><li> Metaphors - a useful tool for thinking.
+</li><li> Formal specs are back&nbsp;!?
+</li><li> Multi-paradigms are needed.
+</li><li> Exemplar-based modelling
+</li><li> Declarative Rules.
+</li><li> Agile Modelling -&gt; Factoty is extra fine for innovation projects to create v-prototypes to find ideal solutions.
+</li><li> What about post-Java?
+</li><li> Some cool code browsing plugins for Eclipse.
+</li><li> Java is legacy.
+</li><li> People and their enthusiasm is inspiring.
+</li><li> The PC and Web ruined the field, because now geeks could get rich.
+</li><li> Microsoft will open-source Windows to improve quality.
+</li><li> XP "practices" are engineering disciplines. Software engineering is dead (we can't call it that because engineering has an unglamorous image) but long live software engineering anyway.
+</li><li> "Turning up the Heat on Agile projects" -&gt; Optimizing team dynamics.
+</li><li> Disaster recovery is really hard.
+</li><li> <b>Andy Moorley is Superman</b>
+</li><li> Hire "trained killers" or at least one (some tasks require not your average software engineer).
+</li><li> Conference admin is hard.
+</li><li> You shouldn't really each a cooked breakfast every morning!
+</li><li> Mike Feathers is such a nice guy
+</li><li> Tim Mackinnon is not a wine buff.
+</li><li> Business Analysts are bad at capturing non-functional requirements.
+</li><li> What am I going to do for a living?
+</li><li> Everyone's doing agile in SPA, that's not the picture "out there".
+</li><li> Lessons learned from Agile proactices on innovative projects.
+</li><li> Tests in TDD can be big overhead.
+</li><li> Some presentations indicated failings in Agile.
+</li><li> Different techniques for estimating such as "poker".
+</li><li> Observation, Interpretation, Conculsion.
+</li><li> I need to stop being entertaining in talks.
+</li><li> People still think CS matters!
+</li><li> Where are the cow magnets?
+</li><li> There is hope for large-scale XP!
+</li><li> End-user programming, sort of in a domain -&gt; bloody users they'll screw up ... but an ultimate pair may help.
+</li><li> You can provoke creative thinking.
+</li><li> Take out from Monday: I want to learn more about Javascript, Ajax and web 2.0 technologies generally. I will encounter these in mu work and need at least to have played with them.
+</li><li> Practical assertions.
+</li><li> Make more use of assertions.
+</li><li> We have and will have a lot of CPU/RAM let's use it to be more productive.
+</li><li> Multi-paradigm programming.
+</li><li> I discovered that Smalltalk rocks!
+</li><li> Need to learn Haskell as well as Smalltalk and Monads for next year /:-(
+</li><li> Eclipse tooling
+</li><li> Planning poker
+</li><li> Topic maps - up and coming potentially useful tool
+</li><li> Power of metaphor
+</li><li> How to taste champagne
+</li><li> Multi-language programming -&gt; including Smalltalk and C%2b%2b .. cool!!
+</li><li> Impact of non-functional requirements continuity and error handling on architecture.
+</li><li> Clustered state diagrams.
+</li><li> Assertions much more important than I realised.
+</li><li> Javascript rocks
+</li><li> Javascript is a real language
+</li><li> Serious javascript
+</li><li> Anti-patterns and how to identify.
+</li><li> We're still reinventing the wheel.
+</li><li> What is Web 2.0? a debate, a social phenomenon, has blogs that can be classified as a) marketing, b) pamphleteering and possibly c) "postcards home".
+</li><li> Half of the people are in the model-drive post-code world, the other hald is very confident about programming.
+</li><li> Language wars are alive and well ...! and still raging
+</li><li> I like Dave Thomas because he does not agree we overexcited software evangalists.
+</li><li> No one knows what Enterprise Architecture really is!
+</li><li> Agile probably does not work unless everyone around you does
+</li><li> API design
+</li><li> Javascript is as I expected (Scheme with too much syntax)
+</li><li> New thoughts on testing
+</li><li> What WDF and WCF are.
+</li><li> Plato's cave model.
+</li><li> Everyone loves Smalltalk but few people use it.
+</li><li> 75% of software engineering undergrads don't want to be programmers
+</li></ul>
+<p><br />
+Suggestions for next year:
+</p>
+<ul><li> Sake at tasting event
+</li></ul>
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=ReflectionsOnSoftwarePracticeAdvancement">http://www.spaconference.org/mediawiki/index.php?title=ReflectionsOnSoftwarePracticeAdvancement</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=ReflectionsOnSoftwarePracticeAdvancement" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:ReflectionsOnSoftwarePracticeAdvancement&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="http://www.spaconference.org/mediawiki/index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;action=edit&amp;oldid=5366" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=ReflectionsOnSoftwarePracticeAdvancement&amp;returntoquery=diff%3Dprev%26oldid%3D5366" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FReflectionsOnSoftwarePracticeAdvancement" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FReflectionsOnSoftwarePracticeAdvancement" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="http://www.spaconference.org/mediawiki/index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;diff=prev&amp;oldid=5366&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="index.php?title=ReflectionsOnSoftwarePracticeAdvancement&amp;oldid=5366" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 2 June 2011, at 11:56.</li>
+		<li id="viewcount">This page has been accessed 99 times.</li>
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.311 secs. --></body></html>

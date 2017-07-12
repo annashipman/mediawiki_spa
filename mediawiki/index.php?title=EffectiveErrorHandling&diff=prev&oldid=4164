@@ -1,0 +1,341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>EffectiveErrorHandling - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.spaconference.org/mediawiki/skins/common/diff.css?270" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="EffectiveErrorHandling",
+wgTitle="EffectiveErrorHandling",
+wgAction="view",
+wgArticleId=2311,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4164,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script type="text/javascript" src="http://www.spaconference.org/mediawiki/skins/common/diff.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-EffectiveErrorHandling skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">EffectiveErrorHandling</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">(Difference between revisions)</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=EffectiveErrorHandling&amp;diff=prev&amp;oldid=4164#column-one">navigation</a>, <a href="index.php?title=EffectiveErrorHandling&amp;diff=prev&amp;oldid=4164#searchInput">search</a></div>
+		<!-- start content -->
+<table class='diff'>
+		<tr valign='top'>
+		<td colspan='1' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href='http://www.spaconference.org/mediawiki/index.php?title=EffectiveErrorHandling&amp;oldid=4163'>Revision as of 12:51, 29 March 2007</a> (<a href='http://www.spaconference.org/mediawiki/index.php?title=EffectiveErrorHandling&amp;action=edit&amp;oldid=4163'>view source</a>)</strong></div><div id="mw-diff-otitle2"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:Contributions/TonyBarrettPowell" title="Special:Contributions/TonyBarrettPowell" class="mw-userlink">TonyBarrettPowell</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:TonyBarrettPowell&amp;action=edit&amp;redlink=1" class="new" title="User talk:TonyBarrettPowell (page does not exist)">Talk</a>)</span></div><div id="mw-diff-otitle3"></div><div id="mw-diff-otitle4"><a href="http://www.spaconference.org/mediawiki/index.php?title=EffectiveErrorHandling&amp;diff=prev&amp;oldid=4163" title="EffectiveErrorHandling" id="differences-prevlink">← Older edit</a></div></td>
+		<td colspan='1' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href='index.php?title=EffectiveErrorHandling&amp;oldid=4164'>Latest revision as of 11:53, 2 June 2011</a> (<a href='index.php?title=EffectiveErrorHandling&amp;action=edit'>view source</a>)</strong></div><div id="mw-diff-ntitle2"><a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span> </div><div id="mw-diff-ntitle3"><abbr class="minor" title="This is a minor edit">m</abbr> <span class="comment">(1 revision)</span></div><div id="mw-diff-ntitle4">&nbsp;</div></td>
+		</tr></table><hr /><h2>Latest revision as of 11:53, 2 June 2011</h2>
+<p>This session explored the roles and forces on error handling and how to develop a error handling policy for the system development.  The intent of the session was to allow the delegates to explore a domain problem, to identify the players and their primary concerns, the failure points and how these failure points should be handled and communicated to the players.
+</p><p>This session created as a consequence of a Bof: <a href="http://www.spaconference.org/cgi-bin/wiki.pl/?ErrorHandling" class="external text" rel="nofollow">1</a> held at SPA2006.
+</p>
+<hr />
+<p>The first exercise split the group into teams and for each team member to describe a domain or particular project.  The group would then decide on which domain or project they would base the remaining exercises.  There were 3 teams in the session the 3 domains were:
+</p>
+<ul><li> An intranet/extranet information system (Team 1)
+</li><li> A internal banking system (Team 2)
+</li><li> An internet advertising system (Team 3)
+</li></ul>
+<hr />
+<p>The second exercise was to identify the players in the system and their concerns, the outputs from the teams were:
+</p><p>Team 1:
+</p>
+<pre>  End Users
+  Operations:
+     Operators
+     Development
+     Security
+</pre>
+<p>Team 2:
+</p>
+<pre>  End Users
+  System Admin
+  Bad Guys
+  Tech. Support
+  Testers
+  Management
+</pre>
+<p>Team 3:
+</p>
+<pre>  The Punter (end user)
+  Client (the supplier of the adverts)
+  Support Engineer
+</pre>
+<hr />
+<p>The next step was to consider the failure modes of the system, the outputs from the teams were:
+</p><p>Team 1:
+</p><p>A table for error classification was created, but the domain specific errors were not added to the table.
+</p>
+<table border="1">
+<tr>
+<td>  </td><td>                   </td><td>  Validation  </td><td> Recoverable  </td><td> Non Recoverable
+</td></tr>
+<tr>
+<td>  </td><td> Validation        </td><td> _     </td><td> _          </td><td> _
+</td></tr>
+<tr>
+<td>  </td><td> Availability      </td><td> _            </td><td> _              </td><td> _
+</td></tr>
+<tr>
+<td>  </td><td> Component Failure </td><td> _            </td><td> _             </td><td> _
+</td></tr>
+<tr>
+<td>  </td><td> Security          </td><td> _            </td><td> _             </td><td> _
+</td></tr>
+<tr>
+<td>  </td><td> Data Integrity    </td><td> _            </td><td> _             </td><td> _
+</td></tr></table>
+<p>Team 2:
+</p>
+<pre>  Database Errors
+  Hardware Errors
+  Users' Errors
+  Privileges
+  App. Errors
+</pre>
+<p>Team 3:
+</p>
+<pre>  All nodes &amp; connections are potential points of failure
+  Errors, in data, service or user experience
+  Error may be from:
+     - Network faults
+     - Hardware (i.e. Server) problem
+     - Software defects
+  Errors may be...
+     - Transient
+     - Recurrent/persistent
+     - Requirement constraints:
+        - Keep serving, whatever
+        - Timeliness
+  And some system specific failures
+</pre>
+<table border="1">
+<tr>
+<td>  </td><td> Inside Data Centre             </td><td> Outside Data Centre
+</td></tr>
+<tr>
+<td>  </td><td> Lose connection to database    </td><td> Loss of XML feed from clients
+</td></tr>
+<tr>
+<td>  </td><td> Web server fails               </td><td> Loss of all XML feeds
+</td></tr>
+<tr>
+<td>  </td><td> DB goes down                   </td><td> XML corrupt
+</td></tr>
+<tr>
+<td>  </td><td> Builder (the system that builds the adverts from live data) goes down     </td><td> DNS failure
+</td></tr>
+<tr>
+<td>  </td><td> Server slow </td><td> DOS attack
+</td></tr>
+<tr>
+<td>  </td><td> N/W failure </td><td> CDN failure
+</td></tr></table>
+<hr />
+<p>The next exercise was to consider the strategies for coping with the errors and the guidance given to development, the outputs from the teams were:
+</p><p>Team 1:
+</p>
+<pre>  Team 1 considered the things they would include in the policy:
+     - Coding Policy - (Includes Log everything relevant)
+     - Implement test for error framework
+     - Framework Implementation
+  And they also considered how to communicate failures:
+     - Screen Message
+     - Log Message
+     - Email 
+     - SMS
+</pre>
+<p>Team 2:
+The team ran out of time for this exercise, so suggested a humourus solution in the event of an error:
+</p>
+<pre>  For the end user:
+</pre>
+<pre>     fprintf(webout, "&lt;p&gt;"&nbsp;%2b
+        "Connection to Internet lost"&nbsp;%2b
+        "Please contact your service provider."&nbsp;%2b
+        "&lt;/p&gt;");
+</pre>
+<pre>  And for operators of the site:
+</pre>
+<pre>     fprintf(stderr, "segmentation fault. core dumped.");
+     exit(1);
+</pre>
+<p>Team 3:
+</p>
+<pre>  Strategies for coping:
+     - Health Monitoring:
+        - of servers
+        - of connections
+        - centralised?
+        - Link checking
+        - alerts (SMS)
+     - Redundancy
+     - Load balancing
+     - Disaster Recovery plan
+     - Paranoia at boundaries
+     - Prevention (reduction) of s/w defects through inspection and testing
+  Scenarios
+     - Data feed goes down...
+        - continue serving adverts
+        - <i>until</i> some time limit
+     - Builder goes down...
+        - tell support (quickly!)
+     - Black Hat injects wrong data...
+        - Monitor raises alert
+     - Advert server fails...
+        - make it fail fast (and start fast?)
+</pre>
+<hr />
+<p>During the session Charles and Tony put together some notes to guide the group work as the session progressed, this was refined into a mini-process for forming an error handling policy:
+</p><p><b>Error Handling</b>
+</p>
+<pre>  Identify
+     - Primary Concerns (“polices” or “forces”)
+     - Players and needs
+     - Failure Points &amp; Error Categories
+  Define
+     - Communication - Logs/IPC
+     - Error Content 
+        - Reported
+        - Diagnostic modes
+</pre>
+<p>It was interesting to note how useful this mini-process was in allowing the teams to develop a good feel for the scope of the error handling needs of the systems and to propose some policies.  We also noticed the influence this process would have on the architecture of the system, as some concerns and the associated failure modes required architectural solutions rather than a coding policy.
+</p>
+<hr />
+<p>Here are some shots of the teams in action during the session:
+</p><p><a href="./index.php?title=File:EffectiveErrorHandling1.JPG" class="image"><img alt="EffectiveErrorHandling1.JPG" src="images/3/3b/EffectiveErrorHandling1.JPG" width="326" height="244" /></a><a href="./index.php?title=File:EffectiveErrorHandling2.JPG" class="image"><img alt="EffectiveErrorHandling2.JPG" src="images/1/13/EffectiveErrorHandling2.JPG" width="326" height="244" /></a><a href="./index.php?title=File:EffectiveErrorHandling3.JPG" class="image"><img alt="EffectiveErrorHandling3.JPG" src="images/6/62/EffectiveErrorHandling3.JPG" width="326" height="245" /></a>
+</p><div class="printfooter">
+Retrieved from "<a href="index.php?title=EffectiveErrorHandling">http://www.spaconference.org/mediawiki/index.php?title=EffectiveErrorHandling</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=EffectiveErrorHandling" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:EffectiveErrorHandling&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="http://www.spaconference.org/mediawiki/index.php?title=EffectiveErrorHandling&amp;action=edit&amp;oldid=4164" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=EffectiveErrorHandling&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=EffectiveErrorHandling&amp;returntoquery=diff%3Dprev%26oldid%3D4164" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FEffectiveErrorHandling" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FEffectiveErrorHandling" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="http://www.spaconference.org/mediawiki/index.php?title=EffectiveErrorHandling&amp;diff=prev&amp;oldid=4164&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="index.php?title=EffectiveErrorHandling&amp;oldid=4164" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 2 June 2011, at 11:53.</li>
+		<li id="viewcount">This page has been accessed 107 times.</li>
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.234 secs. --></body></html>

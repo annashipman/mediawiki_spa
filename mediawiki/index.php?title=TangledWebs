@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>TangledWebs - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="TangledWebs",
+wgTitle="TangledWebs",
+wgAction="view",
+wgArticleId=3034,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5712,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-TangledWebs skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">TangledWebs</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub"></div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=TangledWebs#column-one">navigation</a>, <a href="index.php?title=TangledWebs#searchInput">search</a></div>
+		<!-- start content -->
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=TangledWebs#WS5_Tangled_Webs_-_Finding_Patterns_for_Web_Services"><span class="tocnumber">1</span> <span class="toctext">WS5 Tangled Webs - Finding Patterns for Web Services</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="index.php?title=TangledWebs#Similarities_and_Differences"><span class="tocnumber">1.1</span> <span class="toctext">Similarities and Differences</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="index.php?title=TangledWebs#Good_Web_Service_Patterns"><span class="tocnumber">1.2</span> <span class="toctext">Good Web Service Patterns</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="index.php?title=TangledWebs#Poor_Web_Service_Patterns"><span class="tocnumber">1.3</span> <span class="toctext">Poor Web Service Patterns</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h3> <span class="mw-headline" id="WS5_Tangled_Webs_-_Finding_Patterns_for_Web_Services"> WS5 Tangled Webs - Finding Patterns for Web Services </span></h3>
+<p>An OT2003 workshop run by Andy Longshaw and Eoin Woods.
+</p><p>The aim of the workshop was to review a number of widely used and well 
+understood design patterns in distributed systems and to decide how
+those patterns applied to systems built using web services.
+</p><p>The concept of building a system with web services was broken into two
+separate pieces:
+</p>
+<ul><li> <i>Web Services Technology</i> - XML, HTTP, SOAP, UDDI, WS-... and all the rest of it.  Does using this technology (as opposed to CORBA, RMI, DCOM, ...) change anything?
+</li><li> <i>Service Based Style</i> - using the technology implies a service oriented architectural style.  What does this mean for the patterns we know and love?
+</li></ul>
+<p>The results of the workshop are summarised in the sections below.
+</p>
+<h4> <span class="mw-headline" id="Similarities_and_Differences"> Similarities and Differences </span></h4>
+<p>Building a system with web services (WS) is similar to using existing distributed systems technology in the following ways:
+</p>
+<ul><li> It is important to use <i>coarse grained</i> system elements (components) in order to achieve a well structured, performant system.
+</li><li> <i>Interfaces are still hard</i> to design well and the design considerations for interfaces haven't really changed.
+</li><li> The system's <i>qualities are only as good as the weakest</i> link in both cases.
+</li></ul>
+<p>Building a system with WS is different to using existing technology in the following ways:
+</p>
+<ul><li> Highly <i>asynchronous processing</i> is possible (via SMTP transport for example).  This is less easily available in previous distributed development environments (some form of messaging needed to be separately integrated).
+</li><li> Web services are <i>stateless</i> (at least if you stick to the specs).  This means that certain design patterns simply don't work.
+</li><li> Where <i>conversational state</i> is needed, this needs maintained at the application level (so application developers are back to building infra-structure just like the bad old days).
+</li><li> Inherent inefficiencies in the protocols and the likelihood of wide distribution in web services systems mean that the <i>"remote" constraints</i> that have always existed are now even more important to consider (latency, reliability and so on).
+</li><li> The current design approach of all web services being peers could easily lead to <i>"service based spaghetti"</i> if careful design principles aren't identified and followed, notably in the flow of dependencies.
+</li><li> Using the service based approach gives a <i>clearer focus to reuse</i> (as there are demonstrable tradeoffs between build vs buy/reuse).
+</li><li> <i>Third party services</i> are out of your control (and as we said that the system is only as good as the weakest link, this has serious implications if these services are involved in critical processing).
+</li></ul>
+<h4> <span class="mw-headline" id="Good_Web_Service_Patterns"> Good Web Service Patterns </span></h4>
+<p>Patterns which the group considered for use in WS systems that appeared to be good candidates for such systems were:
+</p>
+<ul><li> <i>Facade</i> to hide the details of existing systems behind WS interfaces
+</li><li> <i>Data Transfer "Object"</i> (although no encapsulation is possible) to allow data transfer back from services without needing object references and to improve efficiency by tailoring the data transferred
+</li><li> <i>Broker</i> to allow services to be located
+</li></ul>
+<p>Principles identified that suggest a pattern is well suited to WS systems include:
+</p>
+<ul><li> Patterns aimed at facilitating cross-platform operation
+</li><li> Patterns that reduce or eliminate conversational state
+</li><li> Patterns that reduce the amount of communication between system elements
+</li></ul>
+<h4> <span class="mw-headline" id="Poor_Web_Service_Patterns"> Poor Web Service Patterns </span></h4>
+<p>Patterns which the group considered for use in WS systems that appeared to be poor candidates for such systems were:
+</p>
+<ul><li> Factory as it relies upon encapsulation and object references which aren't available
+</li><li> Iterator as it encourages a lot of interaction between system elements
+</li></ul>
+<p>Principles identified that suggest a pattern is poorly suited to WS systems include:
+</p>
+<ul><li> Patterns that require extensive "conversation" between elements
+</li><li> Patterns that require any form of encapsulation to exist between client and server
+</li></ul>
+<p><br />
+Andy and Eoin would like to thank all of the participants for their enthusiastic participation and valuable contributions to the workshop.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 14/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:3034-0!1!0!!en!2!edit=0 and timestamp 20170708093916 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=TangledWebs">http://www.spaconference.org/mediawiki/index.php?title=TangledWebs</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=TangledWebs" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:TangledWebs&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=TangledWebs&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=TangledWebs&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=TangledWebs" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FTangledWebs" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FTangledWebs" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="index.php?title=TangledWebs&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="index.php?title=TangledWebs&amp;oldid=5712" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 2 June 2011, at 11:56.</li>
+		<li id="viewcount">This page has been accessed 174 times.</li>
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.163 secs. --></body></html>

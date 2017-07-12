@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>MattWynneNotes - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="MattWynneNotes",
+wgTitle="MattWynneNotes",
+wgAction="view",
+wgArticleId=2663,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4868,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-MattWynneNotes skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">MattWynneNotes</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 11:54, 2 June 2011 by <a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="index.php?title=MattWynneNotes&amp;diff=prev&amp;oldid=4868" title="MattWynneNotes">diff</a>) <a href="index.php?title=MattWynneNotes&amp;direction=prev&amp;oldid=4868" title="MattWynneNotes">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=MattWynneNotes&amp;oldid=4868&amp;printable=yes#column-one">navigation</a>, <a href="index.php?title=MattWynneNotes&amp;oldid=4868&amp;printable=yes#searchInput">search</a></div>
+		<!-- start content -->
+<p>My notes on [DanNorth](<a href="http://dannorth.net/" class="external free" rel="nofollow">http://dannorth.net/</a>) and [JoeWalnes](<a href="http://www.xpdeveloper.net/xpdwiki/Wiki.jsp?page=" class="external free" rel="nofollow">http://www.xpdeveloper.net/xpdwiki/Wiki.jsp?page=</a><a href="./index.php?title=User:JoeWalnes" title="User:JoeWalnes">JoeWalnes</a>)' session, in markdown syntax, do with them what you will.
+</p><p>Five artefacts:
+1. Automation - the glue that binds the tests to the code
+2. Vocabulary - the language that the tests are expressed in
+3. Syntax - the technology that the tests are expressed in (C#, Java)
+4. Intent - the actual scenario being tested
+5. Harness - the thing that runs the tests and tells you if they passed
+</p><p>Four roles. People might fill more than one, or more than one person might be in a role:
+1. Stakeholder
+2. Analyst
+3. Tester
+4. Developer
+</p><p>Taking a requirement, the Stakeholder and the Analyst have a conversation.
+	- what does that requirement *mean*?
+	- how can we create a shared understanding?
+</p><p>Then the Analyst and the Tester have a conversation.
+	- what is the scope of ('bigness') of this requirement?
+	- how will we know when we're done?
+	=&gt; Scenarios (examples)
+</p><p>Tester then 'monkeyfies' the scenarios, using the following template:
+</p>
+<ul><li><ul><li>Given** ...
+</li></ul>
+</li></ul>
+<p>- assumptions, context in which the scenario occurs.
+</p>
+<ul><li><ul><li>When** ...
+</li></ul>
+</li></ul>
+<p>- user action, interaction with the system
+</p>
+<ul><li><ul><li>Then** ...
+</li></ul>
+</li></ul>
+<p>- expected outcome
+</p><p>e.g.
+</p>
+<ul><li><ul><li>Given** we have an account holder Joe
+</li></ul>
+</li></ul>
+<p>and their current account contains $100
+and the interest rate is 10%
+</p>
+<ul><li><ul><li>When** Joe withdraws $120
+</li><li>Then** Joe's balance should be $-22
+</li></ul>
+</li></ul>
+<p>The tester and the developer sit down and write an automated test to implement each scenario.
+</p><p>You might chain these up, but you can always categorise test code into these three partitions. This really helps how you look at test code.
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Consistency Validation Between 'Units'
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>See the [Consumer Driven Contracts](<a href="http://martinfowler.com/articles/consumerDrivenContracts.html" class="external free" rel="nofollow">http://martinfowler.com/articles/consumerDrivenContracts.html</a>) paper on [Martin Fowler](<a href="http://martinfowler.com)'s" class="external free" rel="nofollow">http://martinfowler.com)'s</a> website.
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Tooling for Automation
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>Consider extending / creating the domain model to cover the application itself - the UI, the back end.
+</p><p>Loads of tools are availlable. Use whatever works and build on it.
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Building a Vocabulary
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>Ubiquitous Language - Start with a shared language. It becomes ubiquitous when it appears *everywhere* - documents, code, databases, conversations.
+</p><p>You will use different vocabularies in different *bounded contexts*. A context might be your problem domain, testing domain, software domain, or the user interface domain.
+</p><p>Beware which roles understand you when you're talking in a particular domain. Often terms will span domains.
+</p><p>	e.g. NHibernateCustomerRepository
+</p>
+<pre>    	 &lt;--  1 --&gt;&lt;-- 2--&gt;&lt;-- 3  --&gt;
+</pre>
+<p>		1 = 3rd Party Provider Domain
+		2 = Problem Domain
+		3 - Software Domain
+</p><p><br />
+Make your tests tell a story - make it flow. Don't hide away things in Setup methods that will make the test hard to read. If that means a little bit of duplication, so be it. 'Damp not DRY'.
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Syntax - Implementing Your Tests
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>	* write your own
+		- keep it simple. don't fart around writing too fancy a DSL. you'll be surprised what testers / analysts / stakeholders will be prepared to read.
+		- great way to learn
+	* Jbehave2
+		- training wheels?
+	* [rspec](<a href="http://rspec.info/" class="external free" rel="nofollow">http://rspec.info/</a>)
+		- very nice.
+		- create templates for each given / when / then which you can plug together with parameter values into scenarios
+	* [fit](<a href="http://fit.c2.com/" class="external free" rel="nofollow">http://fit.c2.com/</a>)
+	* [concordion](<a href="http://www.concordion.org/" class="external free" rel="nofollow">http://www.concordion.org/</a>)
+	* [nbehave](<a href="http://nbehave.org/" class="external free" rel="nofollow">http://nbehave.org/</a>) - [joe ocampo](<a href="http://www.lostechies.com/blogs/joe%5Focampo/" class="external free" rel="nofollow">http://www.lostechies.com/blogs/joe%5Focampo/</a>)
+</p><p>Basically what you need is a way to assemble different permutations and combinations of Given / When / Then with different parameters to make different scenarios.
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Expressing Intent
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>Think in terms of narrative, flow. Think in terms of bounded contexts, and who the audience (role) is for that context. Who will understand that vocabulary?
+</p><p>Make sure the intent is clear - that's the main thing.
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Harness
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>Do you want to hook into continuous integration build?
+</p><p>Which version of the code is it going to run against?
+</p><p>Keep the tests in two buckets:
+	* in progress
+	* done
+</p><p>Those which are in the 'done' bucket, **should always work**, those which are in progress are allowed to be failing, until you make them pass.
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Getting Started
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>Things you can do today.
+</p><p>	* Try it for your next requirement
+	* Given When Then helps guide the tests
+	* It's a collaborative process - get people involved
+	* Works for bug fixes
+		* a bug is a scenario that you missed in the first place
+	* use the tools you're most comfortable with
+	* doesn't have to be perfect
+</p><p><br />
+</p>
+<ol><li><ol><li><ol><li><ol><li> Down The Line
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>What to aim for.
+</p><p>	* **ALL** requirements have acceptance criteria specified up front
+		* [helps with estimation](<a href="http://www.springerlink.com/content/vcq847l8ker3jc1d/" class="external free" rel="nofollow">http://www.springerlink.com/content/vcq847l8ker3jc1d/</a>)
+	* acceptance tests are automated *where appropriate*
+		* just having thought about it helps - you may come back to automating it later.
+	* Push button, availlable to all.
+		* helps build trust with stakeholders
+</p>
+<ol><li><ol><li><ol><li><ol><li> Advice
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>	* Automate pragmatically
+	* Don't try to automate what you can't do manually
+	* Testing is validating an *outcome* against *intention*
+	* Non functional requirements
+	* Plan for false positives
+	* Quality is a variable
+		* doesn't mean you don't go test first
+		* doesn't mean low quality code
+		* does mean *how complete is the solution*? - how many scenarios / edge cases are you going to try and meet?
+</p>
+<ol><li><ol><li><ol><li><ol><li> Summary
+</li></ol>
+</li></ol>
+</li></ol>
+</li></ol>
+<p>	* Have a shared understanding of **done**
+	* There is no Golden Hammer
+	* Be aware of the five aspects of test automation
+		* Automation, Vocabulary, Syntax, Intent, Harness
+	* Start simple, then you can benefit now
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 1/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:2663-0!1!0!!en!2!edit=0!printable=1 and timestamp 20170708101637 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=MattWynneNotes">http://www.spaconference.org/mediawiki/index.php?title=MattWynneNotes</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=MattWynneNotes" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:MattWynneNotes&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=MattWynneNotes&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=MattWynneNotes&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=MattWynneNotes&amp;returntoquery=oldid%3D4868%26printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FMattWynneNotes" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FMattWynneNotes" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-permalink"><a href="index.php?title=MattWynneNotes&amp;oldid=4868" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.131 secs. --></body></html>

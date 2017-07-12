@@ -1,0 +1,11 @@
+[Process]
+Type=Edit file
+Engine=MediaWiki
+Script=http://www.spaconference.org/mediawiki/index.php
+Server=http://www.spaconference.org
+Path=/mediawiki
+Special namespace=Special
+
+[File]
+Extension=xls
+URL=http://www.spaconference.org/mediawiki/images/2/25/EffectivePairing1.xls

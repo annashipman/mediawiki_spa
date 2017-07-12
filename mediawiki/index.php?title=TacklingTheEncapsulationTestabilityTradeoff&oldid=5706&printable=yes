@@ -1,0 +1,280 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>TacklingTheEncapsulationTestabilityTradeoff - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="TacklingTheEncapsulationTestabilityTradeoff",
+wgTitle="TacklingTheEncapsulationTestabilityTradeoff",
+wgAction="view",
+wgArticleId=3031,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=5706,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-TacklingTheEncapsulationTestabilityTradeoff skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">TacklingTheEncapsulationTestabilityTradeoff</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">
+				<div id="mw-revision-info">Revision as of 11:56, 2 June 2011 by <a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span></div>
+
+				<div id="mw-revision-nav">(<a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;diff=prev&amp;oldid=5706" title="TacklingTheEncapsulationTestabilityTradeoff">diff</a>) <a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;direction=prev&amp;oldid=5706" title="TacklingTheEncapsulationTestabilityTradeoff">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div>
+			</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#column-one">navigation</a>, <a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#searchInput">search</a></div>
+		<!-- start content -->
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#WS7_-_Tackling_The_Encapsulation_Testability_Tradeoff"><span class="tocnumber">1</span> <span class="toctext">WS7 - Tackling The Encapsulation Testability Tradeoff</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#Results:"><span class="tocnumber">2</span> <span class="toctext">Results:</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#Sources"><span class="tocnumber">3</span> <span class="toctext">Sources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#Abstraction.2C_information_hiding_and_encapsulation"><span class="tocnumber">3.1</span> <span class="toctext">Abstraction, information hiding and encapsulation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#Testability"><span class="tocnumber">3.2</span> <span class="toctext">Testability</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#Books"><span class="tocnumber">3.3</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#Testing_general"><span class="tocnumber">3.4</span> <span class="toctext">Testing general</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#OO"><span class="tocnumber">3.5</span> <span class="toctext">OO</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706&amp;printable=yes#TOOP_-_Testable_object_oriented_programming"><span class="tocnumber">3.6</span> <span class="toctext">TOOP - Testable object oriented programming</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h5> <span class="mw-headline" id="WS7_-_Tackling_The_Encapsulation_Testability_Tradeoff"> WS7 - Tackling The Encapsulation Testability Tradeoff </span></h5>
+<h3> <span class="mw-headline" id="Results:"> Results: </span></h3>
+<p>The workshop had some good discussion, both during and immediately after. 
+</p><p>I think most everyone agreed that 
+</p><p>- Creating test extensions that are not part of the public API requires work-arounds and there could be better tool support.
+- When 
+</p><p><br />
+</p><p><br />
+</p>
+<h3> <span class="mw-headline" id="Sources"> Sources </span></h3>
+<p>I promised to put up my sources, so here they are. I will also post them here: <a href="http://mawi.org" class="external free" rel="nofollow">http://mawi.org</a>.
+</p><p>Most of the articles can be found via acm (portal.acm.org) or ieee, but I always search via acm.
+</p>
+<h4> <span class="mw-headline" id="Abstraction.2C_information_hiding_and_encapsulation"> Abstraction, information hiding and encapsulation </span></h4>
+<p>Most of the good stuff here is from different OOD books. Here are some old articles I found interesting, (tiny archaeological warning), worth skimming:
+</p><p>	"Data abstraction and hierarchy"
+		Barbara Liskov
+		OOPSLA 1987
+</p><p>	"Encapsulation and inheritance in OO programming languages"
+		Alan Snyder
+		OOPSLA 1986
+</p><p>	"Encapsulation constructs in systems programming languages"
+		W. F. Appelbe, A. P. Ravn
+		ACM Transactions on Programming Languages and Systems (TOPLAS)
+		April 1984
+</p><p>Parnas on information hiding is classic but the examples dated. 
+</p><p>	"On the criteria to be used in decomposing systems into modules"
+		D L Parnas
+		Communications of the ACM, December 1972
+</p><p>Abstraction is not mechanics of coupling, but is about semantics and meaning - designing is creating models that communicate:
+</p><p>	Good vs. Evil: Abstraction 
+	Manuel Klimek, article on blog
+		<a href="http://klimek.box4.net/blog/2007/03/18/good-vs-evil-abstraction/" class="external free" rel="nofollow">http://klimek.box4.net/blog/2007/03/18/good-vs-evil-abstraction/</a>
+</p><p><br />
+</p>
+<h4> <span class="mw-headline" id="Testability"> Testability </span></h4>
+<p>If you read just one article on testability, Binders old from 12 years ago is the the best I've read. You will have to "translate" concepts to todays terms, and it pretty condensed (but it is at the same time not "being difficult"), read it twice.
+</p><p>	"Design for testability in object-oriented systems"
+		Robert V. Binder
+		September 1994 Communications of the ACM,  Volume 37 Issue 9 
+</p><p>The first article I've read that actually talks about testability of software with respect to test creation in a pragmatic way, is Freedman. It is still interesting, although not as current. It's non OO and a bit silly on the math side, especially for a practicioner, but I just skim that...
+</p><p>	Testability of Software components
+		IEEE Trans. Software Eng. 17(6): 553-564 (1991)	
+		Roy S Freedman
+</p><p>Not so long ago I found an excellent recent summary of testability work, that I could have made good use of earlier. (Note the weird publishing spot.)
+</p><p>	"Predicting Class Testability using Object-Oriented Metrics"
+		Magiel Bruntink, Arie van Deursen
+		September 2004
+		Proceedings of the Source Code Analysis and Manipulation, Fourth IEEE 
+		International Workshop on (SCAM'04) - Volume 00 SCAM '04 
+</p><p>Magiel Bruntinks "Testability of Object Oriented Systems: a Metrics based approach" (dissertation, 2003) is pretty nice as well.
+</p><p>We talked about two basic models of testability, which were kind-of based on Binders categories of fault and conformance directed testing. A model of testability that focuses on fault directed testing is that of Jeffrey Voas. He has published alot, I found this article to be the most accessible:
+</p><p>"Software Testability: The New Verification"
+	IEEE Software may 1995
+	Jeffrey M. Voas, Keith W. Miller
+</p><p>There are a couple of others worth checking out, this one is ok:
+</p><p>"Factors that affect software testability"
+	 Voas Jeffrey M.
+	October 1991 	  	
+	Technical Report
+	Publisher: NASA Langley Technical Report Server (available via acm)
+</p><p>Stefan Jungmayr has published alot and has focused on dependencies and metrics, this short article sums up alot of his work. Both this and more can be found on www.testability.de/E_index.html:
+</p><p>	"Testability and unit testing"
+		Stefan Jungmayr
+</p><p>His dissertation is lengthy, there is some useful stuff there. His clear definitions of dependencies are a good contribution.
+</p><p><br />
+</p>
+<h4> <span class="mw-headline" id="Books"> Books </span></h4>
+<p>If you want a good and accessible text that does cover a lot of the issues we talked about, I really have found good use for Feathers "WELC" book. I recommend it to anyone learning behavior driven or test first design as well.
+</p><p>	"Working effectively with legacy code"
+		Prentice Hall, 2004
+		Michael Feathers
+</p><p>Chapters addressing test construction factors: Chapter nine and ten talks about controllability and a little about observability. Other chapters talk about design and abstraction, notably chapter 17. Great book on the subject of testing object oriented code, one of the best IMHO. 
+</p><p>There's also Binders enormous book, which is not mentioned that often, so I'll mention it. The parts I've read are excellent, but it's quite enormous. He should have split it into several.
+</p><p>	"Testing Object-Oriented Systems: Models, Patterns, and Tools"
+		Addison-Wesley 1999
+		Robert V Binder
+</p><p><br />
+</p><p><br />
+</p>
+<h4> <span class="mw-headline" id="Testing_general"> Testing general </span></h4>
+<p>I brought up some stuff (the testing periods, etc) from an old article that is really nice, and highly recommended, well worth a read. Short easy read that has many insights, although it is a bit historical.
+</p><p>	The growth of software testing
+		D. Gelperin, B. Hetzel
+		June 1988, Communications of the ACM,  Volume 31 Issue 6
+</p><p>(If anyone has access to the sciencedirect (I think it is called) repository that is holding the article "High-level testing and example-directed development of software specifications" (Probert / Ural) captive - I'm interested. It's from 1984 so it's presumably a purely archaeological read, but the title is intriguing at that date.)
+</p><p>This is an old classic and still very amusing read, could use another font:
+</p><p>	"In defense of program testing or Correctness proofs considered harmful"
+		Andrew S Tannenbaum et al
+		ACM SIGPLAN Notices Volume 11 ,  Issue 5  (May 1976)
+</p>
+<h4> <span class="mw-headline" id="OO"> OO </span></h4>
+<p>I mentioned the study on core OO concepts:
+</p><p>	"The quarks of object-oriented development"
+		Deborah J. Armstrong   	  
+		Communications of the ACM  archive, February 2006
+</p><p><br />
+</p>
+<h4> <span class="mw-headline" id="TOOP_-_Testable_object_oriented_programming"> TOOP - Testable object oriented programming </span></h4>
+<p>There has actually been some work on what testable object oriented programming might mean. What I've read has not been terribly interesting, but here is one I read anyway:
+</p><p>	"On testable object-oriented programming"
+		Y Wang, et al
+		ACM SIGSOFT Software Engineering Notes, July 1997
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 34/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key spaconfe_spa-mw_:pcache:idhash:3031-0!1!0!!en!2!edit=0!printable=1 and timestamp 20170708095252 -->
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff">http://www.spaconference.org/mediawiki/index.php?title=TacklingTheEncapsulationTestabilityTradeoff</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:TacklingTheEncapsulationTestabilityTradeoff&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=TacklingTheEncapsulationTestabilityTradeoff&amp;returntoquery=oldid%3D5706%26printable%3Dyes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FTacklingTheEncapsulationTestabilityTradeoff" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FTacklingTheEncapsulationTestabilityTradeoff" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-permalink"><a href="index.php?title=TacklingTheEncapsulationTestabilityTradeoff&amp;oldid=5706" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.154 secs. --></body></html>

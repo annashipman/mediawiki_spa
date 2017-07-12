@@ -1,0 +1,313 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>LargeRefactorings - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://www.spaconference.org/mediawiki/skins/common/diff.css?270" />
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="LargeRefactorings",
+wgTitle="LargeRefactorings",
+wgAction="view",
+wgArticleId=2581,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=4704,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script type="text/javascript" src="http://www.spaconference.org/mediawiki/skins/common/diff.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-LargeRefactorings skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">LargeRefactorings</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">(Difference between revisions)</div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#column-one">navigation</a>, <a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#searchInput">search</a></div>
+		<!-- start content -->
+<table class='diff'>
+		<tr valign='top'>
+		<td colspan='1' class='diff-otitle'><div id="mw-diff-otitle1"><strong><a href='http://www.spaconference.org/mediawiki/index.php?title=LargeRefactorings&amp;oldid=4703'>Revision as of 12:51, 11 April 2003</a> (<a href='http://www.spaconference.org/mediawiki/index.php?title=LargeRefactorings&amp;action=edit&amp;oldid=4703'>view source</a>)</strong></div><div id="mw-diff-otitle2"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:Contributions/UnknownUser" title="Special:Contributions/UnknownUser" class="mw-userlink">UnknownUser</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:UnknownUser&amp;action=edit&amp;redlink=1" class="new" title="User talk:UnknownUser (page does not exist)">Talk</a>)</span></div><div id="mw-diff-otitle3"></div><div id="mw-diff-otitle4"><a href="http://www.spaconference.org/mediawiki/index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4703" title="LargeRefactorings" id="differences-prevlink">← Older edit</a></div></td>
+		<td colspan='1' class='diff-ntitle'><div id="mw-diff-ntitle1"><strong><a href='index.php?title=LargeRefactorings&amp;oldid=4704'>Latest revision as of 11:54, 2 June 2011</a> (<a href='index.php?title=LargeRefactorings&amp;action=edit'>view source</a>)</strong></div><div id="mw-diff-ntitle2"><a href="./index.php?title=User:DaveCleal" title="User:DaveCleal" class="mw-userlink">DaveCleal</a>  <span class="mw-usertoollinks">(<a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:DaveCleal&amp;action=edit&amp;redlink=1" class="new" title="User talk:DaveCleal (page does not exist)">Talk</a> | <a href="./index.php?title=Special:Contributions%252FDaveCleal" title="Special:Contributions/DaveCleal">contribs</a>)</span> </div><div id="mw-diff-ntitle3"><abbr class="minor" title="This is a minor edit">m</abbr> <span class="comment">(1 revision)</span></div><div id="mw-diff-ntitle4">&nbsp;</div></td>
+		</tr></table><hr /><h2>Latest revision as of 11:54, 2 June 2011</h2>
+<p>Workshop "Large Refactorings", <a href="./index.php?title=User:MartinLippert" title="User:MartinLippert">MartinLippert</a>, <a href="./index.php?title=User:StefanRoock" title="User:StefanRoock">StefanRoock</a>, OT 2003
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Participants"><span class="tocnumber">1</span> <span class="toctext">Participants</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Results_of_workshop"><span class="tocnumber">2</span> <span class="toctext">Results of workshop</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Best_Experiences_with_Refactorings"><span class="tocnumber">2.1</span> <span class="toctext">Best Experiences with Refactorings</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Worst_Experiences_with_Refactorings"><span class="tocnumber">2.2</span> <span class="toctext">Worst Experiences with Refactorings</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Questions_.2F_Problems"><span class="tocnumber">2.3</span> <span class="toctext">Questions / Problems</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Categories_of_questions_.2F_problems_.28ordered_by_votes.29"><span class="tocnumber">2.4</span> <span class="toctext">Categories of questions / problems (ordered by votes)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Characteristics_of_large_refactorings"><span class="tocnumber">2.5</span> <span class="toctext">Characteristics of large refactorings</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#Behaviours_for_refactorings"><span class="tocnumber">2.6</span> <span class="toctext">Behaviours for refactorings</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#.22Getting_Lost.22:_What_to_do"><span class="tocnumber">2.7</span> <span class="toctext">"Getting Lost": What to do</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704#.22Communication_of_Change.22:_What_to_do"><span class="tocnumber">2.8</span> <span class="toctext">"Communication of Change": What to do</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script>if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<h4> <span class="mw-headline" id="Participants"> Participants </span></h4>
+<ul><li> <a href="./index.php?title=User:PeterMarks" title="User:PeterMarks">PeterMarks</a>
+</li><li> <a href="./index.php?title=User:ErikGroeneveld" title="User:ErikGroeneveld">ErikGroeneveld</a>
+</li><li> <a href="http://www.spaconference.org/mediawiki/index.php?title=PeterHammond&amp;action=edit&amp;redlink=1" class="new" title="PeterHammond (page does not exist)">PeterHammond</a>
+</li><li> <a href="./index.php?title=User:AlanFrancis" title="User:AlanFrancis">AlanFrancis</a>
+</li><li> <a href="./index.php?title=User:RayFarmer" title="User:RayFarmer">RayFarmer</a>
+</li><li> <a href="./index.php?title=User:PascalVanCauwenberghe" title="User:PascalVanCauwenberghe">PascalVanCauwenberghe</a>
+</li><li> <a href="./index.php?title=User:PeterSchrier" title="User:PeterSchrier">PeterSchrier</a>
+</li><li> <a href="./index.php?title=User:MarcEvers" title="User:MarcEvers">MarcEvers</a>
+</li><li> <a href="./index.php?title=User:WillemvandenEnde" title="User:WillemvandenEnde">WillemvandenEnde</a>
+</li><li> <a href="./index.php?title=User:MattStephenson" title="User:MattStephenson">MattStephenson</a>
+</li><li> <a href="./index.php?title=User:MartinLippert" title="User:MartinLippert">MartinLippert</a>
+</li><li> <a href="./index.php?title=User:StefanRoock" title="User:StefanRoock">StefanRoock</a>
+</li></ul>
+<h4> <span class="mw-headline" id="Results_of_workshop"> Results of workshop </span></h4>
+<p>Please do not change the results. Discussion of the results takes place at <a href="index.php?title=LargeRefactoringsDiscussion" title="LargeRefactoringsDiscussion">LargeRefactoringsDiscussion</a>.
+</p>
+<h5> <span class="mw-headline" id="Best_Experiences_with_Refactorings"> Best Experiences with Refactorings </span></h5>
+<ul><li> Took a call centre app. in Smalltalk and refactored the difficult to follow code while enhancing it for web. Results in much easier maintenance because we also have auto tests for the code now.
+</li><li> Code becomes simpler, more intentionally and smaller by lots of small refactorings (small steps, basic refactorings)
+</li><li> Turning up-side-down the complete design of an object-relational mapping tool (took a weekend)
+</li><li> Refactorings force me to write tests
+</li><li> Refactoring flow: Refactoring in many small steps with more
+</li></ul>
+<dl><dd><ul><li> repair defects not by hunting bugs, but improving structure
+</li><li> find classes where I didn't expect them
+</li></ul>
+</dd></dl>
+<ul><li> You may refactor now - No need, it's already done.
+</li><li> Bringing in sensible specialization
+</li><li> great tool support for Java
+</li><li> Ending up with a RDB layer from refactoring my unit tests
+</li><li> Removing repetition in <a href="./index.php?title=User:JavaScript" title="User:JavaScript">JavaScript</a> producing successively better code
+</li><li> roman numerals: collapsing many special cases into "base" (5, 10, 50, 100)
+</li><li> using <a href="http://www.spaconference.org/mediawiki/index.php?title=IntelliJ&amp;action=edit&amp;redlink=1" class="new" title="IntelliJ (page does not exist)">IntelliJ</a> Idea
+</li></ul>
+<h5> <span class="mw-headline" id="Worst_Experiences_with_Refactorings"> Worst Experiences with Refactorings </span></h5>
+<ul><li> Having to hide our refactoring work because our customers don't understand. They think they are paying twice for same function.
+</li><li> Refactoring without tests (no unit tests, no acceptance tests): never sure if a refactoring really preserves behaviour
+</li><li> Breaking the product by going in without tests
+</li><li> Large refactorings get stuck. That makes system structure worse.
+</li><li> "Bug Hell" (just before refactoring): restructuring non-compiling code for a month (thousands OK lines)
+</li><li> Are we allowed to refactor? No!
+</li><li> Removing one simple dependency between two classes, and leave all tests failing, without any clue on how to fix that (took 20 minutes)
+</li><li> Skipped refactorings because of time pressure.
+</li><li> I had to stop in the middle of medium sized refactoring. Did not write any thing down to memorize it. Too long a time to pick it up again and having a failing system. Had to throw away quite some things.
+</li><li> Large unstructured program. Modified many times - impossible to change - started again.
+</li><li> Moving method causes many tests to fail.
+</li><li> Refactoring multi-threaded command processor (4 days)
+</li></ul>
+<h5> <span class="mw-headline" id="Questions_.2F_Problems"> Questions / Problems </span></h5>
+<ul><li> What are the most effective "selling points" to help my customers know that refactoring on any scale is a good thing?
+</li><li> What large refactorings do others select
+</li><li> Communicating large refactorings to others in team
+</li><li> How to plan a big refactoring spread over a couple of iterations
+</li><li> How to foresee the effects of single steps during a large refactoring
+</li><li> How ca I keep my other team members involved in the refactoring that takes weeks or months to complete (e.g. turn parts of the system up-side down)
+</li><li> the conditions where large refactorings are neccessary
+</li><li> How to do it - when the original legacy code is so bad
+</li><li> large refactorings within a team
+</li><li> How to manage the focus on such large refactorings, so they get done.
+</li><li> How to manage the consequences of a significant large refactoring
+</li><li> Do tests make large refactorings easier or more difficult
+</li><li> How to do one step at a time ... and execute at each step
+</li></ul>
+<h5> <span class="mw-headline" id="Categories_of_questions_.2F_problems_.28ordered_by_votes.29"> Categories of questions / problems (ordered by votes) </span></h5>
+<ul><li> Getting Lost
+</li><li> Communication of Change
+</li><li> Business Case
+</li><li> Small Steps
+</li><li> Breaking Tests
+</li></ul>
+<h5> <span class="mw-headline" id="Characteristics_of_large_refactorings"> Characteristics of large refactorings </span></h5>
+<ul><li> gets worse before it get's better
+</li><li> benefit(large) &gt; sum of(benefit(small))
+</li><li> system is broken for a long time
+</li><li> affects structure / architecture
+</li><li> affects team / steps must be integrated
+</li><li> needs explanation
+</li><li> can't remember all steps
+</li><li> Large Refactoring vs. Large Collection of Small Refactorings (Long Refactoring)
+</li></ul>
+<h5> <span class="mw-headline" id="Behaviours_for_refactorings"> Behaviours for refactorings </span></h5>
+<ul><li> check in
+</li></ul>
+<dl><dd><ul><li> small: check in asap
+</li><li> large: delay check in
+</li></ul>
+</dd></dl>
+<ul><li> tests
+</li></ul>
+<dl><dd><ul><li> small: change tests first
+</li><li> large: spike solutions, ignore tests
+</li></ul>
+</dd></dl>
+<ul><li> planning
+</li></ul>
+<dl><dd><ul><li> small: just start
+</li><li> large: plan and publish steps
+</li></ul>
+</dd></dl>
+<ul><li> reflection
+</li></ul>
+<dl><dd><ul><li> small: reflect after refactoring
+</li><li> large: reflect often
+</li></ul>
+</dd></dl>
+<ul><li> commitment
+</li></ul>
+<dl><dd><ul><li> small: just do it
+</li><li> large: get agreement from team
+</li></ul>
+</dd></dl>
+<h5> <span class="mw-headline" id=".22Getting_Lost.22:_What_to_do"> "Getting Lost": What to do </span></h5>
+<ul><li> throw stuff away / undo
+</li><li> take a break
+</li><li> change pair
+</li><li> zoom out
+</li><li> keep goal in mind
+</li><li> keep looking at the goal
+</li><li> don't hack it into a working state
+</li><li> don't keep going regardless
+</li></ul>
+<h5> <span class="mw-headline" id=".22Communication_of_Change.22:_What_to_do"> "Communication of Change": What to do </span></h5>
+<ul><li> Standup Meetings
+</li><li> draw a vision and make it visible
+</li><li> report progress
+</li><li> indentify scope beforehand
+</li><li> track plan
+</li><li> communicate new idiom
+</li></ul>
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=LargeRefactorings">http://www.spaconference.org/mediawiki/index.php?title=LargeRefactorings</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=LargeRefactorings" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:LargeRefactorings&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="http://www.spaconference.org/mediawiki/index.php?title=LargeRefactorings&amp;action=edit&amp;oldid=4704" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=LargeRefactorings&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=LargeRefactorings&amp;returntoquery=diff%3Dprev%26oldid%3D4704" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FLargeRefactorings" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FLargeRefactorings" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="http://www.spaconference.org/mediawiki/index.php?title=LargeRefactorings&amp;diff=prev&amp;oldid=4704&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				<li id="t-permalink"><a href="index.php?title=LargeRefactorings&amp;oldid=4704" title="Permanent link to this revision of the page">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="lastmod"> This page was last modified on 2 June 2011, at 11:54.</li>
+		<li id="viewcount">This page has been accessed 188 times.</li>
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.349 secs. --></body></html>

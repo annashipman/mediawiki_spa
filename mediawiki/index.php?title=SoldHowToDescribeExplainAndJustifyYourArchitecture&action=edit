@@ -1,0 +1,351 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" dir="ltr">
+<head>
+<title>View source - SPA Wiki</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="MediaWiki 1.16.5" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="next" href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="SPA Wiki (en)" />
+<link rel="alternate" type="application/atom+xml" title="SPA Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom" />
+<!--[if IE 8]><link rel="stylesheet" href="/mediawiki/skins/common/IE80Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="skins/common/shared.css?270" media="screen" />
+<link rel="stylesheet" href="skins/common/commonPrint.css?270" media="print" />
+<link rel="stylesheet" href="skins/monobook/main.css?270" media="screen" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE50Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE55Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE60Fixes.css?270" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/mediawiki/skins/monobook/IE70Fixes.css?270" media="screen" /><![endif]-->
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" media="print" />
+<link rel="stylesheet" href="./index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%252Fcss&amp;smaxage=18000&amp;action=raw&amp;maxage=18000" />
+<link rel="stylesheet" href="index.php?title=-&amp;action=raw&amp;maxage=18000&amp;gen=css" />
+<script>
+var skin="monobook",
+stylepath="/mediawiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/mediawiki/index.php?title=$1",
+wgScriptPath="/mediawiki",
+wgScriptExtension=".php",
+wgScript="/mediawiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.spaconference.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="SoldHowToDescribeExplainAndJustifyYourArchitecture",
+wgTitle="SoldHowToDescribeExplainAndJustifyYourArchitecture",
+wgAction="edit",
+wgArticleId=2970,
+wgIsArticle=false,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=true,
+wgCurRevisionId=5584,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "SPA Wiki", "5": "SPA Wiki talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "spa_wiki": 4, "spa_wiki_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="SPA Wiki",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script><script src="skins/common/wikibits.js?270"></script>
+<script src="http://www.spaconference.org/mediawiki/skins/common/edit.js?270"></script>
+<script src="skins/common/ajax.js?270"></script>
+<script src="index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;270"></script>
+
+</head>
+<body class="mediawiki ltr ns-0 ns-subject page-SoldHowToDescribeExplainAndJustifyYourArchitecture skin-monobook">
+<div id="globalWrapper">
+<div id="column-content"><div id="content" >
+	<a id="top"></a>
+	
+	<h1 id="firstHeading" class="firstHeading">SoldHowToDescribeExplainAndJustifyYourArchitecture</h1>
+	<div id="bodyContent">
+		<h3 id="siteSub">From SPA Wiki</h3>
+		<div id="contentSub">for <a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture" title="SoldHowToDescribeExplainAndJustifyYourArchitecture">SoldHowToDescribeExplainAndJustifyYourArchitecture</a></div>
+		<div id="jump-to-nav">Jump to: <a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture&amp;action=edit#column-one">navigation</a>, <a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture&amp;action=edit#searchInput">search</a></div>
+		<!-- start content -->
+<p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Users&amp;action=edit&amp;redlink=1" class="new" title="SPA Wiki:Users (page does not exist)">Users</a>.
+</p>
+</div>
+<p>You can view and copy the source of this page:
+</p><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">===  WS3 - Sold! How to Describe, Explain and Justify Your Architecture ===
+
+'''[Back to SpaTwoThousandAndEightOutput]'''
+
+==== Architectural Description Content Lists ====
+
+===== Team 1 =====
+
+-> AD for agile?
+
+Contents of ADs:
+
+:# Scope/intent [agile(%2b)]
+      a. Why?
+      b. What system is the AD describing?
+      c. Who is audience?
+      d. Where does architecture fit into whole system?
+      e. Info about problem domain
+      f. Where and how is the system used?
+:# Baseline - which set of requirements [agile(-)]
+:# Description of system with interfaces [agile(%2b)]
+:# Identification of components [agile(%2b)]
+:# Allocation of requirements to components [agile(%2b)]
+:# Internal interfaces between components [agile(%2b)]
+:# Non-functionals (security, performance, ...) [agile(%2b)]
+:# How am I going to integrate system? [agile(%2b)]
+
+%2b Appendices
+
+Questions:
+
+* Who reads AD?
+:* Who approves it?
+:* New developers?
+* When do you write AD?
+:* before/during/after?
+* Why AD?
+:* New developers
+:* Communicate problem domain and understanding
+:* define system boundaries
+:* Import development plan
+
+===== Team 2 =====
+
+:# Intro to document
+	- Purpose
+	- Stakeholders
+	- How this doc evolved
+:# Why we're doing this project
+:# Who the system users are %2b what they're doing (key functions)
+:# User-friendly physical description
+:# Key functional and quality requirements
+:# Current versus planned architecture
+:# Expected system evolution
+:# Boundary and interfaces
+:# 'Physical' software/system view (BD's etc.)
+:#. Domain model/descriptions
+:#. Key design decisions (%2bwhat/why we rejected)
+
+===== Team 3 =====
+
+Context is initial document for persuading people to pay for the system:
+
+* Management Summary (1/2 page)
+* Content
+* Big conceptual diagram of system context
+* High level scope and requirements
+* ''[Other details according to interest]''
+* Questions and Answers
+* Glossary
+
+All of this should be in stakeholder language (not in "architectural representations")
+
+===== Team 4 =====
+
+Mandatory Sections:
+
+* Scope
+* Audience
+* Status
+* Stakeholders
+* Functional view
+
+Optional Sections (selected according to system and stakeholders):
+
+* Purpose
+* Scope
+* Requirements Overview
+* Glossary
+* Other views
+* Other system qualities
+* System environment
+* Goals
+* Constraints
+* Design Principles
+* Timescales / Migration
+
+==== Architectural Description Content Notation and Tools ====
+
+===== Team 1 =====
+
+UML based approach, possibly customised for domain (e.g. profiles).
+
+* Clarify understanding via models
+* Choose UML artefacts carefully
+* Achieve traceability with a requirements tool
+* Allow for model organisation evolving as architecture moves into design
+
+Publish outputs of modelling to
+
+* Wiki sites (e.g. Confluence)
+* Work and PPT (but may need access control)
+* As-Is from the modelling tool
+
+Paper and pencil still useful when thinking.
+
+Need connectivity between Document Store, Requirements Tool, UML Tool down to the code, with publishing to MS Office, web etc.
+
+===== Team 2 =====
+
+Key message is Keep It Simple Stupid (KISS)
+
+* Word
+* Visio
+* Powerpoint
+* Excel
+* Jira (e.g. design decisions)
+* Subversion
+* Whiteboards
+
+Would like a simulation and animation tool, although haven't used one.
+
+Need to cross reference requirements to solutions (Excel?)
+
+Wouldn't use UML as it creates communication problems.
+
+Need to couch the AD in the language of business rather than of technology.
+
+===== Team 3 =====
+
+Tools and techniques would be MS Word and Wikis due to UML not being portable between tools and environments.
+
+On balance, the tools and techniques ''are'' worth the cost.  [Why?]
+
+Would make extensive use of word processing as a communication medium, but versioning is a problem in this case.
+
+If pushed for time, then a whiteboard and MS Word would be the basic approach.
+
+===== Team 4 =====
+
+* A "nice" drawing tool, meaning one that is based on a well defined notation but that does not enforce the notation at all times (i.e. allows a "relaxed" notation mode).  Versioning of the models and HTML export would be key requirements.
+
+* Wiki site
+* Screen sized change units;
+* Allows for intelligent decomposition;
+* Needs to provide ability to generate PDFs;
+* Provides version control at the page level.
+
+* Mind mapping tool
+* Allowing HTML export
+* Providing versioning
+
+* Animations (again providing versioning)
+
+Review management is an important quality that all of the tools should offer.
+
+==== Socialising the AD ====
+
+* Launch it to stakeholders
+:* Talk (F2F and interactive) is the main thing
+:* PPT is a vehicle for this
+:* This is a transient/push activity
+:* Overview session followed by detailed ones with specific groups
+* Explore it (stakeholders can...)
+:* Living repository (e.g. confluence)
+:* Project status
+:* This is a persistent/pull activity
+* Change
+:* Re-present and re-launch
+:* Subscribe to persistent form (watch list/RSS)
+
+Need to maintain a selling mentality
+
+'''[Back to SpaTwoThousandAndEightOutput]'''</textarea><div class='templatesUsed'>
+
+</div>
+<p id="mw-returnto">Return to <a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture" title="SoldHowToDescribeExplainAndJustifyYourArchitecture">SoldHowToDescribeExplainAndJustifyYourArchitecture</a>.</p>
+<div class="printfooter">
+Retrieved from "<a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture">http://www.spaconference.org/mediawiki/index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture</a>"</div>
+		<div id='catlinks' class='catlinks catlinks-allhidden'></div>		<!-- end content -->
+				<div class="visualClear"></div>
+	</div>
+</div></div>
+<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+				 <li id="ca-nstab-main" class="selected"><a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture" title="View the content page [c]" accesskey="c">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="http://www.spaconference.org/mediawiki/index.php?title=Talk:SoldHowToDescribeExplainAndJustifyYourArchitecture&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource" class="selected"><a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>
+				 <li id="ca-history"><a href="index.php?title=SoldHowToDescribeExplainAndJustifyYourArchitecture&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-anonuserpage"><a href="http://www.spaconference.org/mediawiki/index.php?title=User:141.101.99.128" title="The user page for the IP address you are editing as [.]" accesskey="." class="new">141.101.99.128</a></li>
+				<li id="pt-anontalk"><a href="http://www.spaconference.org/mediawiki/index.php?title=User_talk:141.101.99.128" title="Discussion about edits from this IP address [n]" accesskey="n" class="new">Talk for this IP address</a></li>
+				<li id="pt-anonlogin"><a href="http://www.spaconference.org/mediawiki/index.php?title=Special:UserLogin&amp;returnto=SoldHowToDescribeExplainAndJustifyYourArchitecture&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(../spa2017/images/spa-small-header.png);" href="index.php?title=Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-portal"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-currentevents"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-recentchanges"><a href="./index.php?title=Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-randompage"><a href="./index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>
+				<li id="n-help"><a href="http://www.spaconference.org/mediawiki/index.php?title=Help:Contents" title="The place to find out">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="http://www.spaconference.org/mediawiki/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search SPA Wiki" accesskey="f" type="search" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+			</form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="./index.php?title=Special:WhatLinksHere%252FSoldHowToDescribeExplainAndJustifyYourArchitecture" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="./index.php?title=Special:RecentChangesLinked%252FSoldHowToDescribeExplainAndJustifyYourArchitecture" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+<li id="t-specialpages"><a href="./index.php?title=Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+			</ul>
+		</div>
+	</div>
+</div><!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+	<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+	<ul id="f-list">
+		<li id="privacy"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:Privacy_policy" title="SPA Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="about"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:About" title="SPA Wiki:About">About SPA Wiki</a></li>
+		<li id="disclaimer"><a href="http://www.spaconference.org/mediawiki/index.php?title=SPA_Wiki:General_disclaimer" title="SPA Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+</div>
+</div>
+
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served in 0.165 secs. --></body></html>
