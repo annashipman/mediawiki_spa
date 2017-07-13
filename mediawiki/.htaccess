@@ -1,3 +1,7 @@
+<FilesMatch "\.js\?">
+  Header set Content-Type "text/javascript"
+</FilesMatch>
+
 <FilesMatch "\.php\?">
   Header set Content-Type "text/html"
 </FilesMatch>
@@ -5,3 +9,9 @@
 RewriteEngine on
 RewriteCond %{QUERY_STRING} (.+)
 RewriteRule ^(index\.php)$ $1\%3F%1 [L]
+
+RewriteCond %{QUERY_STRING} (.+)
+RewriteRule ^(skins/common/wikibits\.js)$ $1\%3F%1 [L]
+
+RewriteCond %{QUERY_STRING} (.+)
+RewriteRule ^(skins/common/ajax\.js)$ $1\%3F%1 [L]
