@@ -2,6 +2,10 @@
   Header set Content-Type "text/javascript"
 </FilesMatch>
 
+<FilesMatch "\.css\?">
+  Header set Content-Type "text/css"
+</FilesMatch>
+
 <FilesMatch "\.php\?">
   Header set Content-Type "text/html"
 </FilesMatch>
@@ -15,3 +19,12 @@ RewriteRule ^(skins/common/wikibits\.js)$ $1\%3F%1 [L]
 
 RewriteCond %{QUERY_STRING} (.+)
 RewriteRule ^(skins/common/ajax\.js)$ $1\%3F%1 [L]
+
+RewriteCond %{QUERY_STRING} (.+)
+RewriteRule ^(skins/common/shared\.css)$ $1\%3F%1 [L]
+
+RewriteCond %{QUERY_STRING} (.+)
+RewriteRule ^(skins/common/commonPrint\.css)$ $1\%3F%1 [L]
+
+RewriteCond %{QUERY_STRING} (.+)
+RewriteRule ^(skins/monobook/main\.css)$ $1\%3F%1 [L]
