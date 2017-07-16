@@ -1,0 +1,11 @@
+[Process]
+Type=Edit file
+Engine=MediaWiki
+Script=http://spaconference.org/mediawiki/index.php
+Server=http://spaconference.org
+Path=/mediawiki
+Special namespace=Special
+
+[File]
+Extension=jpeg
+URL=http://spaconference.org/mediawiki/images/5/57/Mugmoooselavirginia.jpeg

@@ -1,0 +1,11 @@
+[Process]
+Type=Edit file
+Engine=MediaWiki
+Script=http://spaconference.org/mediawiki/index.php
+Server=http://spaconference.org
+Path=/mediawiki
+Special namespace=Special
+
+[File]
+Extension=gif
+URL=http://spaconference.org/mediawiki/images/d/d2/Mugnilshaugan.gif
