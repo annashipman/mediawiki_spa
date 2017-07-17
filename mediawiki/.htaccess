@@ -13,6 +13,9 @@
 CheckSpelling Off
 
 RewriteEngine on
+RewriteCond %{QUERY_STRING} ^$
+RewriteRule ^index\.php$ /mediawiki/index.php?title=Main_Page [R,L]
+
 RewriteCond %{QUERY_STRING} (.+)&(.+)
 RewriteRule ^(index\.php)$ $1\%3F%1 [L]
 
