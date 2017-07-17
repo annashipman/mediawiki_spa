@@ -10,6 +10,8 @@
   Header set Content-Type "text/html"
 </FilesMatch>
 
+CheckSpelling Off
+
 RewriteEngine on
 RewriteCond %{QUERY_STRING} (.+)
 RewriteRule ^(index\.php)$ $1\%3F%1 [L]
